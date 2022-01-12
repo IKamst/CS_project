@@ -2,28 +2,33 @@
 
 import nltk
 from nltk.tag import TnT
+from nltk.metrics.scores import (precision, recall)
 
 from read_sentences import read_file
 
 
-file = "gold_data/train.conll"
+train_file = "gold_data/train.conll"
+validation_file = "gold_data/dev.conll"
 
-sentences, dictionary, tagged_sents = read_file(file)
+train_sentences, train_dictionary, train_tagged_sents = read_file(train_file)
+validation_sentences, validation_dictionary, validation_tagged_sents = read_file(validation_file)
 
-sents = list(tagged_sents)
-test = list(sentences)
+train_tagged = list(train_tagged_sents)
+validation_sents = list(validation_sentences)
+validation_tagged = list(validation_tagged_sents)
 
 tagger = TnT()
-tagger.train(sents[200:1000])
+tagger.train(train_tagged)
 
-tagged_data = tagger.tagdata(test[100:120])
+
+output = tagger.tagdata(validation_sents)
 
 num_correct = 0
 num_words = 0
 
-for j in range(len(tagged_data)):
-	s = tagged_data[j]
-	t = sents[j+100]
+for j in range(len(output)):
+	s = output[j]
+	t = validation_tagged[j]
 	for i in range(len(s)):
 		print(s[i], "--", t[i])
 		if s[i][1] == t[i][1]:
