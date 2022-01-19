@@ -41,9 +41,9 @@ for sent in output:
 
 # determine the accuracy, precision, recall and F1 score
 print("Validation accuracry : ", accuracy_score(validation_sets['sem'], output_sets['sem']))
-print("Validation precision: ", precision_score(validation_sets['sem'], output_sets['sem'], average='micro'))
-print("Validation recall: ", recall_score(validation_sets['sem'], output_sets['sem'], average='micro'))
-print("Validation F1 score: ", f1_score(validation_sets['sem'], output_sets['sem'], average='micro'))
+print("Validation precision: ", precision_score(validation_sets['sem'], output_sets['sem'], average='macro'))
+print("Validation recall: ", recall_score(validation_sets['sem'], output_sets['sem'], average='macro'))
+print("Validation F1 score: ", f1_score(validation_sets['sem'], output_sets['sem'], average='macro'))
 
 # writing the incorrectly classified words to a file for later inspection (if wanted)
 incorrectly_classified = [] # incorrectly_classified has word, classification, correct answer
