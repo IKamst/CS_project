@@ -1,0 +1,8542 @@
+A DIS DIS
+brown COL COL
+dog CON CON
+and GRP GRP
+a DIS DIS
+grey COL COL
+dog CON CON
+are NOW NOW
+fighting EXG EXG
+in REL REL
+the DEF DEF
+snow CON CON
+
+A DIS DIS
+woman CON CON
+in REL REL
+a DIS DIS
+white COL COL
+dress CON CON
+and GRP GRP
+a DIS DIS
+woman CON CON
+in REL REL
+a DIS DIS
+blue COL COL
+dress CON CON
+are NOW NOW
+standing EXG EXG
+on REL REL
+a DIS DIS
+stage CON CON
+
+There NIL NIL
+is NOW ENS
+no NOT NOT
+man CON CON
+playing EXG EXG
+two QUC QUC
+keyboards CON CON
+
+There NIL NIL
+is NOW NOW
+no NOT NOT
+person CON CON
+cutting EXG EXG
+some DIS DIS
+ginger CON CON
+
+You PRO PRO
+are NOW NOW
+screwed EXS EXS
+. NIL NIL
+
+This PRX PRX
+is ENS ENS
+a DIS DIS
+man-made IST IST
+language CON CON
+. NIL NIL
+
+which QUE QUE
+singer ROL ROL
+do NOW NOW
+you PRO PRO
+like EXS EXS
+? QUE QUE
+
+Kraft ORG ORG
+sold EPS EPS
+Celestial~Seasonings ORG ORG
+. NIL NIL
+
+Anna~Politkovskaya PER PER
+was PST PST
+murdered EXS EXS
+. NIL NIL
+
+Alfred~Nobel PER PER
+is ENS ENS
+the DEF DEF
+inventor ROL ROL
+of REL REL
+dynamite CON CON
+. NIL NIL
+
+The DEF DEF
+yakuza CON CON
+are ENS ENS
+the DEF DEF
+Japanese GPO GPO
+mafia CON CON
+. NIL NIL
+
+Russia GPE GPE
+fears ENS ENS
+the DEF DEF
+system CON CON
+. NIL NIL
+
+Bountiful ART ORG
+reached EPS EPS
+San~Francisco GPE GPE
+on REL REL
+1 DOM DOM
+November MOY MOY
+1945 YOC YOC
+. NIL NIL
+
+Pierce PER PER
+lives ENS ENS
+near APX APX
+Rossville~Blvd GEO GPE
+. NIL NIL
+
+Yunus PER PER
+founded EPS EPS
+the DEF DEF
+Grameen~Bank ORG ORG
+30 QUC QUC
+years UOM UOM
+ago PST PST
+. NIL NIL
+
+Maria PER PER
+has ENS ENS
+long DEG DEG
+hair CON CON
+. NIL NIL
+
+How EMP EMP
+slow IST DEG
+you PRO PRO
+are NOW NOW
+! EMP EMP
+
+The DEF DEF
+astronauts ROL ROL
+went EPS EPS
+up REL REL
+to REL REL
+the DEF DEF
+moon CON CON
+in REL REL
+a DIS DIS
+rocket CON CON
+. NIL NIL
+
+We PRO PRO
+stood EPS EPS
+at REL REL
+the DEF DEF
+door CON CON
+and AND COO
+waited EPS EPS
+. NIL NIL
+
+Bob PER PER
+is NOW NOW
+popular IST IST
+at REL REL
+school CON CON
+. NIL NIL
+
+Bill PER PER
+was PST PST
+killed EXS EXS
+by REL REL
+an DIS DIS
+intruder ROL ROL
+. NIL NIL
+
+It NIL NIL
+took EPS EPS
+me PRO PRO
+two QUC QUC
+hours UOM UOM
+to NIL NIL
+memorize EXS EXS
+this PRX PRX
+sentence CON CON
+. NIL NIL
+
+Whose HAS HAS
+is ENS ENS
+this PRX PRX
+camera CON CON
+? QUE QUE
+
+I PRO PRO
+'m NOW NOW
+calling EXG EXG
+because SUB SUB
+I PRO PRO
+'ve NOW NOW
+lost EXT EXT
+my HAS HAS
+credit~card CON CON
+. NIL NIL
+
+Let FUT FUT
+'s PRO PRO
+have EXS EXS
+sushi CON CON
+. NIL NIL
+
+The DEF DEF
+dog CON CON
+attacked EPS EPS
+the DEF DEF
+little IST IST
+boy CON CON
+. NIL NIL
+
+Think EXS EXS
+about REL REL
+it PRO PRO
+. NIL NIL
+
+I PRO PRO
+like ENS ENS
+the DEF DEF
+actor ROL ROL
+. NIL NIL
+
+I PRO PRO
+gave EPS EPS
+it PRO PRO
+to REL REL
+my HAS HAS
+mommy ROL ROL
+. NIL NIL
+
+I PRO PRO
+bought EPS EPS
+a DIS DIS
+few QUV QUV
+eggs CON CON
+and GRP GRP
+a DIS DIS
+little QUV IST
+milk CON CON
+. NIL NIL
+
+My HAS HAS
+uncle ROL ROL
+bought EPS EPS
+me PRO PRO
+this PRX PRX
+book CON CON
+. NIL NIL
+
+I PRO PRO
+'ll FUT FUT
+buy EXS EXS
+a DIS DIS
+new IST IST
+one CON CON
+. NIL NIL
+
+It PRO PRO
+'s NOW NOW
+nice IST IST
+. NIL NIL
+
+His HAS HAS
+brother ROL ROL
+was PST PST
+nasty IST IST
+to REL REL
+me PRO PRO
+. NIL NIL
+
+He PRO PRO
+'s NOW NOW
+not NOT NOT
+like IST EXS
+us PRO PRO
+. NIL NIL
+
+He PRO PRO
+'s NOW NOW
+much QUV QUV
+younger MOR MOR
+than REL REL
+Tom PER PER
+. NIL NIL
+
+He PRO PRO
+can POS POS
+swim EXS EXS
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+a QUC QUC
+head UOM UOM
+taller MOR MOR
+than REL REL
+me PRO PRO
+. NIL NIL
+
+She PRO PRO
+waved EPS EPS
+good-bye CON CON
+to REL REL
+me PRO PRO
+. NIL NIL
+
+She PRO PRO
+used PST PST
+to NIL NIL
+play EXS EXS
+tennis CON CON
+every AND AND
+Sunday DOW DOW
+. NIL NIL
+
+Oil CON CON
+has NOW NOW
+been PFT PFT
+discovered EXS EXS
+under REL REL
+the DEF DEF
+North~Sea GEO GEO
+. NIL NIL
+
+Who QUE QUE
+is ENS ENS
+he PRO PRO
+? QUE QUE
+
+I PRO PRO
+do NOW NOW
+n't NOT NOT
+remember EXS EXS
+your HAS HAS
+name CON CON
+. NIL NIL
+
+I PRO PRO
+threw EPS EPS
+up REL REL
+. NIL NIL
+
+I PRO PRO
+want ENS ENS
+to NIL NIL
+pay EXS EXS
+with REL REL
+a DIS DIS
+check CON CON
+. NIL NIL
+
+She PRO PRO
+has ENS ENS
+three QUC QUC
+brothers ROL ROL
+. NIL NIL
+
+The DEF DEF
+customer ROL ROL
+is NOW NOW
+always AND AND
+right IST IST
+. NIL NIL
+
+One QUC QUC
+plus CON CON
+two QUC QUC
+is NIL NOW
+equal IST IST
+to REL REL
+three QUC QUC
+. NIL NIL
+
+Nice IST IST
+suit CON CON
+. NIL NIL
+
+The DEF DEF
+book CON CON
+is NOW NOW
+big DEG DEG
+. NIL NIL
+
+I PRO PRO
+have NEC NEC
+to NIL NIL
+hurry EXS EXS
+! EMP EMP
+
+This PRX PRX
+is ENS ENS
+the DEF DEF
+woman CON CON
+whose HAS HAS
+cars CON CON
+were PST PST
+stolen EXS EXS
+. NIL NIL
+
+Where QUE QUE
+are ENS ENS
+the DEF DEF
+parking~metres CON CON
+? QUE QUE
+
+He PRO PRO
+is NOW NOW
+opening EXG EXG
+the DEF DEF
+window CON CON
+. NIL NIL
+
+My HAS HAS
+parents ROL ROL
+come ENS ENS
+from REL REL
+China GPE GPE
+. NIL NIL
+
+I PRO PRO
+won EPS EPS
+the DEF DEF
+gold~medal CON CON
+. NIL NIL
+
+What EMP EMP
+a DIS DIS
+beautiful IST IST
+rainbow CON CON
+! EMP EMP
+
+The DEF DEF
+garden CON CON
+was PST PST
+full IST IST
+of REL REL
+beautiful IST IST
+yellow COL COL
+flowers CON CON
+. NIL NIL
+
+She PRO PRO
+is ENS ENS
+the DEF DEF
+Prime~Minister ROL ROL
+of REL REL
+Finland GPE GPE
+. NIL NIL
+
+My HAS HAS
+mother ROL ROL
+told EPS EPS
+me PRO PRO
+to NIL NIL
+mow EXS EXS
+the DEF DEF
+lawn CON CON
+. NIL NIL
+
+Tom PER PER
+used EPS EPS
+a DIS DIS
+toothpick CON CON
+. NIL NIL
+
+I PRO PRO
+love ENS ENS
+Natasha PER PER
+. NIL NIL
+
+This PRX PRX
+is NOW ENS
+nonsense IST CON
+. NIL NIL
+
+I PRO PRO
+do NOW NOW
+n't NOT NOT
+want EXS EXS
+pizza CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+not NOT NOT
+hungry IST IST
+. NIL NIL
+
+Do NOW NOW
+seedless IST IST
+watermelons CON CON
+exist EXS EXS
+? QUE QUE
+
+I PRO PRO
+lost EPS EPS
+my HAS HAS
+key CON CON
+. NIL NIL
+
+If SUB SUB
+you PRO PRO
+do NOW NOW
+n't NOT NOT
+like EXS EXS
+it PRO PRO
+then SUB SUB
+you PRO PRO
+can POS POS
+quit EXS EXS
+. NIL NIL
+
+That DST DST
+guy CON CON
+is NOW NOW
+completely INT INT
+nuts IST IST
+! EMP EMP
+
+I PRO PRO
+'m NOW NOW
+sleepy IST IST
+! EMP EMP
+
+The DEF DEF
+data CON CON
+network CON CON
+is NOW NOW
+now NOW NOW
+complete IST IST
+. NIL NIL
+
+The DEF DEF
+shooting CON CON
+had PST PST
+ceased EXT EXT
+. NIL NIL
+
+Kerensky PER PER
+has NOW NOW
+fled EXT EXT
+. NIL NIL
+
+The DEF DEF
+boy-scouts ROL ROL
+jeered EPS EPS
+and COO COO
+scuttled EPS EPS
+into REL REL
+the DEF DEF
+building CON CON
+. NIL NIL
+
+Five QUC QUC
+rings CON CON
+
+In REL REL
+1922 YOC YOC
+, NIL NIL
+the DEF DEF
+site CON CON
+was PST PST
+acquired EXS EXS
+by REL REL
+Produits~Chimiques~Bozel~Lamotte ORG ORG
+. NIL NIL
+
+Kohl PER PER
+announced EPS EPS
+economy CON CON
+measures CON CON
+
+Both AND AND
+have NOW NOW
+been PFT PFT
+arrested EXS EXS
+already ALT ALT
+. NIL NIL
+
+Both AND AND
+were PST PST
+silent IST IST
+. NIL NIL
+
+What QUE QUE
+is ENS ENS
+the DEF DEF
+height CON CON
+of REL REL
+the DEF DEF
+tallest TOP TOP
+redwood CON CON
+? QUE QUE
+
+Who QUE QUE
+directed EPS EPS
+the DEF DEF
+film CON CON
+" NIL NIL
+Fail~Safe LIT ART
+" NIL NIL
+? QUE QUE
+
+What QUE QUE
+roller~coaster CON CON
+is ENS ENS
+the DEF DEF
+fastest TOP TOP
+in REL REL
+the DEF DEF
+world CON CON
+? QUE QUE
+
+How QUE QUE
+tall DEG DEG
+is NOW NOW
+Mike~Tyson PER PER
+? QUE QUE
+
+How QUE QUE
+many QUV QUV
+people CON CON
+in REL REL
+U.S. GPE GPE
+do NOW NOW
+not NOT NOT
+have EXS EXS
+health~insurance CON CON
+? QUE QUE
+
+How QUE QUE
+did PST PST
+Jerry~Garcia PER PER
+die EXS EXS
+? QUE QUE
+
+I PRO PRO
+'m NOW NOW
+bored IST IST
+right EQU EQU
+now NOW NOW
+. NIL NIL
+
+They PRO PRO
+were PST PST
+satisfied IST IST
+. NIL NIL
+
+Tom PER PER
+shrugged EPS EPS
+his HAS HAS
+shoulders CON CON
+. NIL NIL
+
+Corsairfly ORG ORG
+is ENS ENS
+an DIS DIS
+airline CON CON
+based IST IST
+in REL REL
+Paris GPE GPE
+. NIL NIL
+
+Tom PER PER
+is NOW ENS
+a DIS DIS
+fakir ROL ROL
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+out IST IST
+now NOW NOW
+. NIL NIL
+
+Tom PER PER
+was PST PST
+n't NOT NOT
+wearing EXG EXG
+any DIS DIS
+thing CON CON
+. NIL NIL
+
+He PRO PRO
+'s NOW NOW
+absent-minded IST IST
+. NIL NIL
+
+Tom PER PER
+abhors ENS ENS
+violence CON CON
+. NIL NIL
+
+She PRO PRO
+is ENS ENS
+not NOT NOT
+a DIS DIS
+good IST IST
+sailor ROL ROL
+. NIL NIL
+
+Everyone AND AND
+'s NOW NOW
+eating EXG EXG
+. NIL NIL
+
+This PRX PRX
+is ENS ENS
+an DIS DIS
+old DEG DEG
+letter CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+rinsing EXG EXG
+the DEF DEF
+dishes CON CON
+. NIL NIL
+
+Will FUT FUT
+Tom PER PER
+die EXS EXS
+? QUE QUE
+
+The DEF DEF
+house CON CON
+has NOW NOW
+burnt EXT EXT
+down REL REL
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+being PRG PRG
+silly IST IST
+, NIL NIL
+is NOW NOW
+n't NOT NOT
+he PRO PRO
+? QUE QUE
+
+She PRO PRO
+smoked EPS EPS
+a DIS DIS
+cigar CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+disrespectful IST IST
+. NIL NIL
+
+She PRO PRO
+'s NOW NOW
+brushing EXG EXG
+her HAS HAS
+hair CON CON
+. NIL NIL
+
+She PRO PRO
+loved EPS EPS
+Tom PER PER
+. NIL NIL
+
+I PRO PRO
+have NOW NOW
+n't NOT NOT
+been EXT EXT
+to REL REL
+Boston GPE GPE
+since REL REL
+2013 YOC YOC
+. NIL NIL
+
+The DEF DEF
+college CON CON
+was PST PST
+founded EXS EXS
+by REL REL
+Mr ROL ROL
+Smith PER PER
+. NIL NIL
+
+Something DIS DIS
+'s NOW NOW
+burning EXG EXG
+. NIL NIL
+
+The DEF DEF
+sun CON CON
+is NOW NOW
+rising EXG EXG
+. NIL NIL
+
+My HAS HAS
+sister ROL ROL
+is NOW NOW
+n't NOT NOT
+studying EXG EXG
+now NOW NOW
+. NIL NIL
+
+Is NOW NOW
+the DEF DEF
+cat CON CON
+all~right IST IST
+? QUE QUE
+
+Tom PER PER
+does NOW NOW
+n't NOT NOT
+know EXS EXS
+me PRO PRO
+. NIL NIL
+
+The DEF DEF
+door CON CON
+is NOW NOW
+opening EXG EXG
+now NOW NOW
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+rats CON CON
+in REL REL
+the DEF DEF
+kitchen CON CON
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+poor IST IST
+. NIL NIL
+
+The DEF DEF
+girl CON CON
+was PST PST
+visibly INT INT
+shaken IST IST
+after REL REL
+the DEF DEF
+accident CON CON
+. NIL NIL
+
+The DEF DEF
+artist ROL ROL
+is NOW NOW
+gifted IST IST
+. NIL NIL
+
+Tom PER PER
+was PST PST
+thoughtful IST IST
+. NIL NIL
+
+This PRX PRX
+is ENS ENS
+Miss ROL ROL
+Curtis PER PER
+. NIL NIL
+
+Stir EXS EXS
+the DEF DEF
+paint CON CON
+with REL REL
+a DIS DIS
+stick CON CON
+. NIL NIL
+
+Is NOW NOW
+the DEF DEF
+phone CON CON
+ringing EXG EXG
+? QUE QUE
+
+I PRO PRO
+have ENS ENS
+a DIS DIS
+big DEG DEG
+dog CON CON
+. NIL NIL
+
+You PRO PRO
+'re NOW ENS
+a DIS DIS
+workaholic ROL ROL
+. NIL NIL
+
+Yesterday PST PST
+I PRO PRO
+went EPS EPS
+to REL REL
+the DEF DEF
+opera CON CON
+. NIL NIL
+
+He PRO PRO
+is ENS ENS
+a DIS DIS
+plucky IST IST
+guy CON CON
+. NIL NIL
+
+How QUE QUE
+'s NOW NOW
+Tom PER PER
+'s HAS NOW
+cold CON DEG
+? QUE QUE
+
+I PRO PRO
+deserve ENS ENS
+an DIS DIS
+explanation CON CON
+. NIL NIL
+
+Mary PER PER
+just PST IST
+left EPS EPS
+. NIL NIL
+
+I PRO PRO
+will FUT FUT
+not NOT NOT
+lie EXS EXS
+to REL REL
+her PRO PRO
+. NIL NIL
+
+I PRO PRO
+needed EPS EPS
+money CON CON
+. NIL NIL
+
+She PRO PRO
+ate EPS EPS
+her HAS HAS
+dinner CON CON
+. NIL NIL
+
+The DEF DEF
+game CON CON
+excited EPS EPS
+lots QUV QUV
+of REL REL
+people CON CON
+. NIL NIL
+
+The DEF DEF
+boy CON CON
+fanned EPS EPS
+himself REF REF
+with REL REL
+his HAS HAS
+hat CON CON
+. NIL NIL
+
+Everyone AND AND
+wants ENS ENS
+that DST PRO
+. NIL NIL
+
+Coffee CON CON
+will FUT FUT
+be NIL NIL
+served EXS EXS
+after REL REL
+the DEF DEF
+meal CON CON
+. NIL NIL
+
+She PRO PRO
+has ENS ENS
+two~thousand QUC QUC
+books CON CON
+. NIL NIL
+
+He PRO PRO
+is FUT FUT
+leaving EXG EXG
+Chicago GPE GPE
+tomorrow FUT FUT
+. NIL NIL
+
+Every AND AND
+body CON CON
+except NOT NOT
+Joe PER PER
+went EPS EPS
+to REL REL
+the DEF DEF
+party CON CON
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+spinning EXG EXG
+wool CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+very INT INT
+lazy IST IST
+. NIL NIL
+
+Some DIS DIS
+people CON CON
+might POS POS
+assume EXS EXS
+that DST PRO
+. NIL NIL
+
+Mr ROL ROL
+Wood PER PER
+was PST PST
+like IST EXS
+a DIS DIS
+father ROL ROL
+to REL REL
+Tony PER PER
+. NIL NIL
+
+Packing EXG EXG
+sucks ENS ENS
+. NIL NIL
+
+How EMP EMP
+heavy DEG DEG
+you PRO PRO
+are NOW NOW
+! EMP EMP
+
+That DST DST
+story CON CON
+is ENS ENS
+a DIS DIS
+famous IST IST
+one CON CON
+that AND AND
+everyone AND AND
+knows ENS ENS
+. NIL NIL
+
+Tom PER PER
+works ENS ENS
+for REL REL
+an DIS DIS
+oil~company CON CON
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+studying EXG EXG
+agriculture CON CON
+. NIL NIL
+
+Tom PER PER
+carefully IST IST
+wiped EPS EPS
+his HAS HAS
+fingerprints CON CON
+off REL REL
+the DEF DEF
+knife CON CON
+. NIL NIL
+
+Your HAS HAS
+jokes CON CON
+are NOW NOW
+n't NOT NOT
+funny IST IST
+. NIL NIL
+
+That DST DST
+kind CON CON
+of REL REL
+remark CON CON
+does NOW NOW
+not NOT NOT
+befit EXS EXS
+you PRO PRO
+. NIL NIL
+
+I PRO PRO
+'d~better NEC FUT
+drive EXS EXS
+you PRO PRO
+home CON CON
+. NIL NIL
+
+His HAS HAS
+stupidity CON CON
+is NOW NOW
+abysmal IST IST
+. NIL NIL
+
+Tom PER PER
+did PST PST
+n't NOT NOT
+find EXS EXS
+it PRO PRO
+. NIL NIL
+
+Tom PER PER
+and GRP GRP
+Mary PER PER
+detest ENS ENS
+each~other REF ALT
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+no NOT NOT
+less LES MOR
+diligent IST IST
+than REL REL
+she PRO PRO
+. NIL NIL
+
+Tom PER PER
+was PST PST
+hurt EXS EXS
+. NIL NIL
+
+I PRO PRO
+took EPS EPS
+the DEF DEF
+elevator CON CON
+to REL REL
+the DEF DEF
+third ORD ORD
+floor CON CON
+. NIL NIL
+
+I PRO PRO
+think ENS ENS
+Tom PER PER
+is NOW NOW
+normal IST IST
+. NIL NIL
+
+My HAS HAS
+brother ROL ROL
+is NOW NOW
+rich IST IST
+. NIL NIL
+
+He PRO PRO
+drives ENS ENS
+me PRO PRO
+crazy IST IST
+. NIL NIL
+
+Tom LIT PER
+is ENS ENS
+a DIS DIS
+common IST IST
+name CON CON
+. NIL NIL
+
+My HAS HAS
+plan CON CON
+worked EPS EPS
+. NIL NIL
+
+She PRO PRO
+sang EPS EPS
+a DIS DIS
+song CON CON
+. NIL NIL
+
+The DEF DEF
+alarm CON CON
+did PST PST
+n't NOT NOT
+wake EXS EXS
+Tom PER PER
+. NIL NIL
+
+Tom PER PER
+was PST PST
+sweating EXG EXG
+. NIL NIL
+
+Tom PER PER
+says ENS ENS
+he PRO PRO
+'s NOW NOW
+busy IST IST
+. NIL NIL
+
+I PRO PRO
+have NOW NOW
+lost EXT EXT
+my HAS HAS
+pencil CON CON
+. NIL NIL
+
+I PRO PRO
+have NOW NOW
+got EXT EXT
+into REL REL
+Hyogo~University ORG ORG
+. NIL NIL
+
+His HAS HAS
+sister ROL ROL
+is NOW NOW
+not NOT NOT
+going EXG EXG
+to REL REL
+America GPE GPE
+. NIL NIL
+
+She PRO PRO
+picked EPS EPS
+up REL REL
+a DIS DIS
+coin CON CON
+. NIL NIL
+
+I PRO PRO
+needed EPS EPS
+it PRO PRO
+. NIL NIL
+
+This PRX PRX
+is NOW NOW
+creepy IST IST
+. NIL NIL
+
+I PRO PRO
+phoned EPS EPS
+. NIL NIL
+
+Tom PER PER
+'s NOW NOW
+eating EXG EXG
+. NIL NIL
+
+The DEF DEF
+skier ROL ROL
+suffered EPS EPS
+a DIS DIS
+head CON CON
+trauma CON CON
+. NIL NIL
+
+She PRO PRO
+joined EPS EPS
+us PRO PRO
+. NIL NIL
+
+What EMP EMP
+a DIS DIS
+lot QUV QUV
+of REL REL
+books CON CON
+! EMP EMP
+
+Do NOW NOW
+they PRO PRO
+belong EXS EXS
+to REL REL
+the DEF DEF
+university CON CON
+library CON CON
+? QUE QUE
+
+I PRO PRO
+supported EPS EPS
+him PRO PRO
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+not NOT NOT
+creative IST IST
+. NIL NIL
+
+Mary PER PER
+is NOW NOW
+snoring EXG EXG
+. NIL NIL
+
+Tom PER PER
+seems ENS ENS
+conceited IST IST
+. NIL NIL
+
+I PRO PRO
+was PST PST
+very INT INT
+good DEG IST
+. NIL NIL
+
+She PRO PRO
+dialled EPS EPS
+the DEF DEF
+number CON CON
+. NIL NIL
+
+The DEF DEF
+leaves CON CON
+fell EPS EPS
+to REL REL
+the DEF DEF
+earth CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+wet IST IST
+. NIL NIL
+
+Tom PER PER
+played EPS EPS
+with REL REL
+his HAS HAS
+dog CON CON
+. NIL NIL
+
+He PRO PRO
+needs ENS ENS
+assistants ROL ROL
+. NIL NIL
+
+You PRO PRO
+lied EPS EPS
+to REL REL
+me PRO PRO
+! EMP EMP
+
+That DST DST
+does NOW NOW
+n't NOT NOT
+regard EXS EXS
+you PRO PRO
+at~all EMP EMP
+. NIL NIL
+
+It PRO PRO
+'s NOW NOW
+clean IST IST
+. NIL NIL
+
+Ten QUC QUC
+prisoners ROL ROL
+broke EPS EPS
+out REL REL
+of REL REL
+jail CON CON
+. NIL NIL
+
+My HAS HAS
+watch CON CON
+may POS POS
+be NIL NIL
+one QUC QUC
+or DIS DIS
+two QUC QUC
+minutes UOM UOM
+fast IST DEG
+. NIL NIL
+
+The DEF DEF
+cube~root CON CON
+of REL REL
+twenty-seven QUC YOC
+is EXS ENS
+three QUC QUC
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+extremely INT INT
+gullible IST IST
+. NIL NIL
+
+I PRO PRO
+know ENS ENS
+that SUB SUB
+John PER PER
+is NOW NOW
+honest IST IST
+. NIL NIL
+
+Who QUE QUE
+won EPS EPS
+? QUE QUE
+
+Tom PER PER
+has NOW NOW
+never NOT NOT
+been PFT PFT
+skiing EXG EXG
+. NIL NIL
+
+Did PST PST
+Tom PER PER
+try EXS EXS
+? QUE QUE
+
+Tom PER PER
+is NOW NOW
+grinning EXG EXG
+. NIL NIL
+
+All AND AND
+the DEF DEF
+passengers ROL ROL
+died EPS EPS
+, NIL NIL
+but BUT BUT
+he PRO PRO
+survived EPS EPS
+. NIL NIL
+
+The DEF DEF
+method CON CON
+was PST PST
+too INT INT
+expensive IST IST
+to NIL NIL
+be NIL NIL
+practical IST IST
+. NIL NIL
+
+I PRO PRO
+'ve NOW NOW
+never NOT NOT
+been EXT EXT
+to REL REL
+Paris GPE GPE
+. NIL NIL
+
+Ken PER PER
+was PST PST
+n't NOT NOT
+running EXG EXG
+. NIL NIL
+
+I PRO PRO
+ate EPS EPS
+. NIL NIL
+
+The DEF DEF
+girls CON CON
+reveled EPS EPS
+in REL REL
+dancing CON CON
+. NIL NIL
+
+She PRO PRO
+graduated EPS EPS
+from REL REL
+Kobe~University ORG ORG
+. NIL NIL
+
+Tom PER PER
+laid EPS EPS
+his HAS HAS
+racket CON CON
+on REL REL
+the DEF DEF
+ground CON CON
+. NIL NIL
+
+I PRO PRO
+ca POS POS
+n't NOT NOT
+open EXS EXS
+this PRX PRX
+bottle CON CON
+. NIL NIL
+
+You PRO PRO
+have ENS ENS
+a DIS DIS
+very INT INT
+good IST IST
+voice CON CON
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+rich IST IST
+, NIL NIL
+but BUT BUT
+he PRO PRO
+is NOW NOW
+unkind IST IST
+. NIL NIL
+
+Mary PER PER
+misled EPS EPS
+me PRO PRO
+. NIL NIL
+
+I PRO PRO
+hope ENS ENS
+Tom PER PER
+agrees ENS ENS
+. NIL NIL
+
+We PRO PRO
+use ENS ENS
+really INT INT
+state-of-the-art IST IST
+equipment CON CON
+. NIL NIL
+
+With REL REL
+whom QUE QUE
+are NOW NOW
+you PRO PRO
+eating EXG EXG
+dinner CON CON
+? QUE QUE
+
+The DEF DEF
+storm CON CON
+abated EPS EPS
+. NIL NIL
+
+He PRO PRO
+'s NOW NOW
+watching EXG EXG
+the DEF DEF
+Olympics CON CON
+. NIL NIL
+
+My HAS HAS
+watch CON CON
+says ENS ENS
+2:30 CLO CLO
+. NIL NIL
+
+Everybody AND AND
+hates ENS ENS
+me PRO PRO
+. NIL NIL
+
+I PRO PRO
+'m ENS ENS
+a DIS DIS
+genius ROL ROL
+. NIL NIL
+
+He PRO PRO
+lives ENS ENS
+in REL REL
+the DEF DEF
+city CON CON
+. NIL NIL
+
+The DEF DEF
+storm CON CON
+let EPS EPS
+up REL REL
+. NIL NIL
+
+The DEF DEF
+buds CON CON
+began EPS EPS
+to NIL NIL
+open EXS EXS
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+many QUV QUV
+islands CON CON
+in REL REL
+Greece GPE GPE
+. NIL NIL
+
+The DEF DEF
+blast CON CON
+destroyed EPS EPS
+everything AND AND
+. NIL NIL
+
+I PRO PRO
+was PST PST
+n't NOT NOT
+prepared IST IST
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+not NOT NOT
+dead IST IST
+. NIL NIL
+
+The DEF DEF
+doll CON CON
+lay EPS EPS
+on REL REL
+the DEF DEF
+floor CON CON
+. NIL NIL
+
+I PRO PRO
+do NOW NOW
+not NOT NOT
+like EXS EXS
+science CON CON
+. NIL NIL
+
+He PRO PRO
+'s NOW ENS
+Argentinian GPO GPO
+. NIL NIL
+
+How QUE QUE
+'s NOW ENS
+the DEF DEF
+dog CON CON
+? QUE QUE
+
+Tom PER PER
+left EPS EPS
+at REL REL
+midnight CLO CLO
+. NIL NIL
+
+I PRO PRO
+am ENS ENS
+in REL REL
+Russia GPE GPE
+. NIL NIL
+
+I PRO PRO
+was PST PST
+having EXG EXG
+dinner CON CON
+with REL REL
+Tom PER PER
+. NIL NIL
+
+Fish CON CON
+surface ENS ENS
+for REL REL
+air CON CON
+. NIL NIL
+
+Tom PER PER
+saw EPS EPS
+a DIS DIS
+mouse CON CON
+. NIL NIL
+
+I PRO PRO
+like ENS ENS
+my HAS HAS
+teachers ROL ROL
+. NIL NIL
+
+Tom PER PER
+laughs ENS ENS
+a~lot QUV QUV
+. NIL NIL
+
+The DEF DEF
+apple CON CON
+is NOW NOW
+not NOT NOT
+green COL COL
+. NIL NIL
+
+We PRO PRO
+volunteered EPS EPS
+. NIL NIL
+
+Tom PER PER
+drives ENS ENS
+a DIS DIS
+truck CON CON
+and AND COO
+his HAS HAS
+wife ROL ROL
+drives ENS ENS
+a DIS DIS
+station~wagon CON CON
+. NIL NIL
+
+That DST DST
+'s NOW NOW
+obvious IST IST
+. NIL NIL
+
+These PRX PRX
+are NOW NOW
+perfect IST IST
+. NIL NIL
+
+You PRO PRO
+lied EPS EPS
+to REL REL
+us PRO PRO
+, NIL NIL
+did PST PST
+n't NOT NOT
+you PRO PRO
+? QUE QUE
+
+What EMP EMP
+a DIS DIS
+jungle CON CON
+! EMP EMP
+
+He PRO PRO
+gave EPS EPS
+in REL REL
+. NIL NIL
+
+Whoever AND AND
+is NOW NOW
+born EXS EXS
+in REL REL
+Austria GPE GPE
+, NIL NIL
+is ENS ENS
+an DIS DIS
+Austrian GPO GPO
+. NIL NIL
+
+Tom PER PER
+visited EPS EPS
+us PRO PRO
+yesterday PST PST
+. NIL NIL
+
+Tom PER PER
+took EPS EPS
+part NIL CON
+in REL REL
+the DEF DEF
+race CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+drunk IST IST
+. NIL NIL
+
+Tom PER PER
+dreamed EPS EPS
+of REL REL
+her PRO PRO
+often QUV QUV
+. NIL NIL
+
+She PRO PRO
+has NOW NOW
+kept EXT EXT
+a DIS DIS
+diary CON CON
+for REL REL
+3 QUC QUC
+years UOM UOM
+. NIL NIL
+
+He PRO PRO
+needed EPS EPS
+money CON CON
+. NIL NIL
+
+I PRO PRO
+need ENS ENS
+some DIS DIS
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+manipulative IST IST
+. NIL NIL
+
+Everything AND AND
+is NOW NOW
+new IST IST
+. NIL NIL
+
+Tom PER PER
+did PST PST
+n't NOT NOT
+answer EXS EXS
+all AND AND
+the DEF DEF
+questions CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+eavesdropping EXG EXG
+. NIL NIL
+
+Are NOW NOW
+you PRO PRO
+lucky IST IST
+? QUE QUE
+
+Are NOW NOW
+they PRO PRO
+live IST EXS
+? QUE QUE
+
+Tom PER PER
+is NOW NOW
+drowning EXG EXG
+! EMP EMP
+
+My HAS HAS
+friend ROL ROL
+invited EPS EPS
+me PRO PRO
+to REL REL
+dinner CON CON
+at REL REL
+the DEF DEF
+restaurant CON CON
+. NIL NIL
+
+I PRO PRO
+hope ENS ENS
+she PRO PRO
+'s NOW NOW
+all~right IST IST
+. NIL NIL
+
+She PRO PRO
+caused EPS EPS
+this PRX PRX
+. NIL NIL
+
+Mary PER PER
+broke EPS EPS
+up REL REL
+with REL REL
+me PRO PRO
+. NIL NIL
+
+Why QUE QUE
+are NOW NOW
+you PRO PRO
+shouting EXG EXG
+? QUE QUE
+
+He PRO PRO
+is NOW NOW
+gay IST IST
+. NIL NIL
+
+We PRO PRO
+found EPS EPS
+it PRO PRO
+. NIL NIL
+
+Tom PER PER
+draws ENS ENS
+well IST IST
+. NIL NIL
+
+She PRO PRO
+did PST PST
+not NOT NOT
+read EXS EXS
+the DEF DEF
+book CON CON
+. NIL NIL
+
+Tom PER PER
+and GRP GRP
+Mary PER PER
+stopped EPS EPS
+hugging EXG EXG
+. NIL NIL
+
+His HAS HAS
+dog CON CON
+ran EPS EPS
+in REL REL
+the DEF DEF
+yard CON CON
+. NIL NIL
+
+I PRO PRO
+went PST PST
+fishing EXG EXG
+. NIL NIL
+
+Do NOW NOW
+you PRO PRO
+prefer EXS EXS
+Belgian GPO GPO
+or DIS DIS
+German GPO GPO
+beer CON CON
+? QUE QUE
+
+Tom PER PER
+is NOW NOW
+ready IST IST
+. NIL NIL
+
+Tom PER PER
+drives ENS ENS
+slowly IST IST
+. NIL NIL
+
+How QUE QUE
+much QUV QUV
+did PST PST
+the DEF DEF
+glasses CON CON
+cost EXS EXS
+? QUE QUE
+
+My HAS HAS
+grandmother ROL ROL
+passed EPS EPS
+away REL REL
+. NIL NIL
+
+Eight QUC QUC
+plus CON CON
+two QUC QUC
+is EXS EXS
+ten QUC QUC
+. NIL NIL
+
+Tom PER PER
+was PST PST
+excited IST IST
+. NIL NIL
+
+Somebody DIS DIS
+'s ENS ENS
+at REL REL
+the DEF DEF
+front~door CON CON
+. NIL NIL
+
+Tom PER PER
+'s HAS HAS
+house CON CON
+is NOW NOW
+easy IST IST
+to NIL NIL
+find EXS EXS
+. NIL NIL
+
+Tom PER PER
+spent EPS EPS
+several QUV QUV
+hours UOM UOM
+in REL REL
+the DEF DEF
+library CON CON
+. NIL NIL
+
+Tom PER PER
+has NOW NOW
+bought EXT EXT
+a DIS DIS
+house CON CON
+which REL AND
+has ENS ENS
+six QUC QUC
+rooms CON CON
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+spreading EXG EXG
+mustard CON CON
+on REL REL
+a DIS DIS
+slice CON CON
+of REL REL
+bread CON CON
+. NIL NIL
+
+These PRX PRX
+cups CON CON
+are NOW NOW
+all AND AND
+broken IST IST
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+17 QUC QUC
+, NIL NIL
+too ALT ALT
+. NIL NIL
+
+She PRO PRO
+crawled EPS EPS
+out~of REL REL
+bed CON CON
+. NIL NIL
+
+Tycho~Brahe PER PER
+benefited EPS EPS
+greatly IST IST
+from REL REL
+King ROL ROL
+Fredrik PER PER
+'s HAS HAS
+generous IST IST
+support CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+courteous IST IST
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+writing EXG EXG
+a DIS DIS
+letter CON CON
+. NIL NIL
+
+I PRO PRO
+eat ENS ENS
+a DIS DIS
+banana CON CON
+. NIL NIL
+
+Keisuke PER PER
+is NOW NOW
+taller MOR MOR
+than REL REL
+me PRO PRO
+. NIL NIL
+
+Is NOW NOW
+Haruki~Murakami PER PER
+popular IST IST
+in REL REL
+Vietnam GPE GPE
+as~well ALT ALT
+? QUE QUE
+
+Alas ITJ ORG
+! EMP EMP
+
+Tom PER PER
+is NOW NOW
+as EQU EQU
+tall IST IST
+as REL REL
+his HAS HAS
+father ROL ROL
+. NIL NIL
+
+Klava PER PER
+oversimplifies ENS ENS
+everything AND AND
+. NIL NIL
+
+I PRO PRO
+ca POS POS
+n't NOT NOT
+talk EXS EXS
+now NOW NOW
+. NIL NIL
+
+Tom PER PER
+has ENS ENS
+a DIS DIS
+Swiss GPO GPO
+bank~account CON CON
+. NIL NIL
+
+This PRX PRX
+story CON CON
+does NOW NOW
+n't NOT NOT
+have EXS EXS
+a DIS DIS
+happy IST IST
+ending CON CON
+. NIL NIL
+
+This PRX PRX
+is NOW NOW
+impossible IST IST
+! EMP EMP
+
+Tom PER PER
+'s NOW NOW
+paralyzed IST EXS
+. NIL NIL
+
+I PRO PRO
+'ve NOW NOW
+been PFT PFT
+stung EXS EXS
+by REL REL
+a DIS DIS
+hornet CON CON
+. NIL NIL
+
+Tom PER PER
+failed EPS EPS
+because SUB SUB
+he PRO PRO
+did PST PST
+n't NOT NOT
+study EXS EXS
+. NIL NIL
+
+Tom PER PER
+got PST EPS
+sick IST IST
+. NIL NIL
+
+What QUE QUE
+'s ENS ENS
+your HAS HAS
+favorite TOP TOP
+commercial CON CON
+? QUE QUE
+
+Tom PER PER
+lowered EPS EPS
+the DEF DEF
+bucket CON CON
+into REL REL
+the DEF DEF
+well CON CON
+. NIL NIL
+
+He PRO PRO
+'s ENS ENS
+the DEF DEF
+oldest TOP TOP
+son ROL ROL
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+nervous IST IST
+now NOW NOW
+. NIL NIL
+
+He PRO PRO
+reached EPS EPS
+for REL REL
+the DEF DEF
+pistol CON CON
+. NIL NIL
+
+Sally PER PER
+is NOW NOW
+two QUC QUC
+years UOM UOM
+older MOR MOR
+than REL REL
+Ken PER PER
+. NIL NIL
+
+But BUT BUT
+nobody NOT NOT
+believed EPS EPS
+her PRO PRO
+. NIL NIL
+
+I PRO PRO
+love ENS ENS
+Italian GPO GPO
+food CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+still ALT ALT
+uncertain IST IST
+. NIL NIL
+
+My HAS HAS
+family CON CON
+is NOW NOW
+very INT INT
+proud IST IST
+of REL REL
+me PRO PRO
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+as EQU EQU
+fast IST IST
+as REL REL
+a DIS DIS
+leopard CON CON
+. NIL NIL
+
+She PRO PRO
+loves ENS ENS
+to NIL NIL
+cook EXS EXS
+. NIL NIL
+
+If SUB SUB
+the DEF DEF
+text CON CON
+does NOW NOW
+n't NOT NOT
+make EXS EXS
+sense NIL CON
+, NIL NIL
+it PRO PRO
+is NOW NOW
+n't NOT NOT
+coherent IST IST
+. NIL NIL
+
+The DEF DEF
+serpent CON CON
+tempted EPS EPS
+Eve PER PER
+. NIL NIL
+
+Tom PER PER
+ca POS POS
+n't NOT NOT
+speak EXS EXS
+French CON CON
+. NIL NIL
+
+Tom PER PER
+ca POS POS
+n't NOT NOT
+speak EXS EXS
+Spanish CON CON
+either ALT ALT
+. NIL NIL
+
+Mary PER PER
+wants ENS ENS
+to NIL NIL
+paint EXS EXS
+her HAS HAS
+car CON CON
+bright~blue COL COL
+. NIL NIL
+
+I PRO PRO
+never NOT NOT
+lie ENS ENS
+. NIL NIL
+
+That DST DST
+politician ROL ROL
+is ENS ENS
+an DIS DIS
+old IST DEG
+fox ROL CON
+. NIL NIL
+
+We PRO PRO
+are NOW NOW
+dozing EXG EXG
+off REL REL
+. NIL NIL
+
+The DEF DEF
+cat CON CON
+is NOW NOW
+watching EXG EXG
+the DEF DEF
+fish CON CON
+. NIL NIL
+
+A DIS DIS
+decapitated IST IST
+body CON CON
+was EPS EPS
+on REL REL
+the DEF DEF
+coroner ROL ROL
+'s HAS HAS
+table CON CON
+. NIL NIL
+
+Many QUV QUV
+a DIS DIS
+man CON CON
+has NOW NOW
+predicted EXT EXT
+it PRO PRO
+. NIL NIL
+
+Tom PER PER
+is ENS ENS
+the DEF DEF
+one CON CON
+we PRO PRO
+want ENS ENS
+. NIL NIL
+
+He PRO PRO
+jumped EPS EPS
+into REL REL
+the DEF DEF
+train CON CON
+. NIL NIL
+
+Sachiko PER PER
+is NOW NOW
+more MOR MOR
+popular IST IST
+than REL REL
+Judy PER PER
+. NIL NIL
+
+Both AND AND
+roads CON CON
+lead ENS ENS
+to REL REL
+the DEF DEF
+station CON CON
+. NIL NIL
+
+She PRO PRO
+found EPS EPS
+one CON CON
+. NIL NIL
+
+My HAS HAS
+son ROL ROL
+will FUT FUT
+take EXS EXS
+over REL REL
+the DEF DEF
+job CON CON
+. NIL NIL
+
+Speak EXS EXS
+clear IST IST
+. NIL NIL
+
+These PRX PRX
+shoes CON CON
+are NOW NOW
+a DIS DIS
+little QUV QUV
+loose IST IST
+. NIL NIL
+
+I PRO PRO
+ca POS POS
+n't NOT NOT
+understand EXS EXS
+this PRX PRX
+table CON CON
+. NIL NIL
+
+This PRX PRX
+is ENS ENS
+a DIS DIS
+map CON CON
+of REL REL
+the DEF DEF
+city CON CON
+of REL REL
+Sendai GPE GPE
+. NIL NIL
+
+Tom PER PER
+was PST PST
+carrying EXG EXG
+a DIS DIS
+bucket CON CON
+of REL REL
+water CON CON
+. NIL NIL
+
+I PRO PRO
+was PST PST
+crying EXG EXG
+. NIL NIL
+
+We PRO PRO
+'re NOW NOW
+very INT INT
+happy IST IST
+with REL REL
+the DEF DEF
+results CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+really EMP INT
+fed~up IST IST
+with REL REL
+this PRX PRX
+heat CON CON
+. NIL NIL
+
+Man CON CON
+has NOW NOW
+been PFT PFT
+writing EXG EXG
+for REL REL
+about APX APX
+6000 QUC QUC
+years UOM UOM
+. NIL NIL
+
+She PRO PRO
+acknowledged EPS EPS
+her HAS HAS
+mistake CON CON
+. NIL NIL
+
+A DIS DIS
+lot QUV QUV
+of REL REL
+insects CON CON
+are NOW NOW
+chirping EXG EXG
+in REL REL
+the DEF DEF
+field CON CON
+. NIL NIL
+
+I PRO PRO
+'m ENS ENS
+a DIS DIS
+volleyball~player ROL ROL
+. NIL NIL
+
+My HAS HAS
+mother ROL ROL
+made EPS EPS
+me PRO PRO
+a DIS DIS
+sweater CON CON
+. NIL NIL
+
+You PRO PRO
+are NOW NOW
+not NOT NOT
+watching EXG EXG
+TV CON CON
+now NOW NOW
+. NIL NIL
+
+This PRX PRX
+is NOW NOW
+exciting IST IST
+. NIL NIL
+
+The DEF DEF
+pie CON CON
+is NOW NOW
+fresh IST IST
+. NIL NIL
+
+Mary PER PER
+is NOW NOW
+watering EXG EXG
+the DEF DEF
+garden CON CON
+. NIL NIL
+
+He PRO PRO
+played EPS EPS
+the DEF DEF
+piano CON CON
+and COO COO
+she PRO PRO
+sang EPS EPS
+. NIL NIL
+
+You PRO PRO
+hugged EPS EPS
+Mary PER PER
+. NIL NIL
+
+We PRO PRO
+saw EPS EPS
+the DEF DEF
+monkey CON CON
+at REL REL
+the DEF DEF
+zoo CON CON
+. NIL NIL
+
+I PRO PRO
+'ll FUT FUT
+hang EXS EXS
+my HAS HAS
+coat CON CON
+up REL REL
+behind REL REL
+the DEF DEF
+door CON CON
+. NIL NIL
+
+He PRO PRO
+called EPS EPS
+his HAS HAS
+mother ROL ROL
+up REL REL
+from REL REL
+the DEF DEF
+airport CON CON
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+over MOR MOR
+800,000 QUC QUC
+Basque CON GPO
+speakers ROL ROL
+in REL REL
+the DEF DEF
+world CON CON
+. NIL NIL
+
+I PRO PRO
+was PST PST
+expelled EXS EXS
+from REL REL
+school CON CON
+. NIL NIL
+
+Despite BUT BUT
+their HAS HAS
+great IST DEG
+wealth CON CON
+, NIL NIL
+they PRO PRO
+are NOW NOW
+not NOT NOT
+happy IST IST
+. NIL NIL
+
+Tom PER PER
+started EPS EPS
+walking EXG EXG
+. NIL NIL
+
+He PRO PRO
+has NOW NOW
+read EXT EXT
+War~and~Peace ART ORG
+15 QUC QUC
+times CON CON
+. NIL NIL
+
+He PRO PRO
+gave EPS EPS
+me PRO PRO
+some DIS DIS
+money CON CON
+. NIL NIL
+
+All AND AND
+of REL REL
+us PRO PRO
+were PST PST
+surprised IST IST
+at REL REL
+the DEF DEF
+news CON CON
+. NIL NIL
+
+The DEF DEF
+rain CON CON
+is NOW NOW
+letting EXG EXG
+up REL REL
+. NIL NIL
+
+I PRO PRO
+'ll FUT FUT
+miss EXS EXS
+you PRO PRO
+too ALT ALT
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+counting EXG EXG
+on REL REL
+your HAS HAS
+help CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+extremely INT INT
+fit IST IST
+. NIL NIL
+
+Tom PER PER
+'s HAS HAS
+plan CON CON
+actually IST INT
+worked EPS EPS
+. NIL NIL
+
+He PRO PRO
+'s NOW NOW
+shorter MOR MOR
+than REL REL
+his HAS HAS
+father ROL ROL
+. NIL NIL
+
+I PRO PRO
+want ENS ENS
+it PRO PRO
+now NOW NOW
+! EMP EMP
+
+Emily PER PER
+is NOW NOW
+crying EXG EXG
+. NIL NIL
+
+I PRO PRO
+borrowed EPS EPS
+Tom PER PER
+'s HAS HAS
+car CON CON
+. NIL NIL
+
+I PRO PRO
+brought EPS EPS
+wine CON CON
+. NIL NIL
+
+This PRX PRX
+train CON CON
+leaves EFS EFS
+at REL REL
+nine~o'clock CLO CLO
+. NIL NIL
+
+Tom PER PER
+'s HAS HAS
+speech CON CON
+was PST PST
+good IST IST
+. NIL NIL
+
+Tom PER PER
+ripped EPS EPS
+you PRO PRO
+off REL REL
+. NIL NIL
+
+I PRO PRO
+have NOW NOW
+been EXT EXT
+to REL REL
+America GPE GPE
+twice QUC QUC
+. NIL NIL
+
+Tom PER PER
+picked EPS EPS
+the DEF DEF
+diamond CON CON
+up REL REL
+and COO COO
+looked EPS EPS
+at REL REL
+it PRO PRO
+. NIL NIL
+
+He PRO PRO
+came EPS EPS
+back IST REL
+at REL REL
+5~o'clock CLO CLO
+. NIL NIL
+
+My HAS HAS
+bedroom CON CON
+is NOW NOW
+crawling EXG EXG
+with REL REL
+spiders CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+very INT INT
+polite IST IST
+. NIL NIL
+
+He PRO PRO
+'s NOW NOW
+good IST IST
+. NIL NIL
+
+Maybe POS POS
+Tom PER PER
+killed EPS EPS
+himself REF REF
+. NIL NIL
+
+She PRO PRO
+'s NOW NOW
+cleaning EXG EXG
+the DEF DEF
+book CON CON
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+plenty QUV QUV
+of REL REL
+fish CON CON
+in REL REL
+this PRX PRX
+river CON CON
+. NIL NIL
+
+Tom PER PER
+was PST PST
+praying EXG EXG
+. NIL NIL
+
+The DEF DEF
+doctor ROL ROL
+told EPS EPS
+Tom PER PER
+that SUB SUB
+he PRO PRO
+should NEC NEC
+eat EXS EXS
+a DIS DIS
+lot QUV QUV
+of REL REL
+vegetables CON CON
+. NIL NIL
+
+He PRO PRO
+saw EPS EPS
+a DIS DIS
+small DEG DEG
+Band-Aid CON CON
+on REL REL
+her HAS HAS
+left IST IST
+knee CON CON
+. NIL NIL
+
+She PRO PRO
+won EPS EPS
+a DIS DIS
+phone CON CON
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+engaged EXS EXS
+to REL REL
+her PRO PRO
+. NIL NIL
+
+I PRO PRO
+was PST PST
+afraid IST IST
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+n't NOT NOT
+winning EXG EXG
+. NIL NIL
+
+The DEF DEF
+suit CON CON
+'s NOW NOW
+made EXS EXS
+of REL REL
+very INT INT
+rough IST DEG
+material CON CON
+. NIL NIL
+
+Warn EXS EXS
+Tom PER PER
+. NIL NIL
+
+Somebody DIS DIS
+catch EXS EXS
+that DST DST
+man CON CON
+! EMP EMP
+
+Tom PER PER
+is NOW NOW
+amused IST IST
+. NIL NIL
+
+Are ENS ENS
+those DST DST
+yours HAS HAS
+? QUE QUE
+
+I PRO PRO
+always AND AND
+get ENS ENS
+up REL REL
+at REL REL
+6~o'clock CLO CLO
+in REL REL
+the DEF DEF
+morning CON CON
+. NIL NIL
+
+The DEF DEF
+price CON CON
+rose EPS EPS
+. NIL NIL
+
+Tom PER PER
+threw EPS EPS
+Mary PER PER
+a DIS DIS
+rope CON CON
+. NIL NIL
+
+This PRX PRX
+tour CON CON
+is NIL NIL
+going FUT FUT
+to NIL NIL
+be NIL NIL
+amazing IST IST
+! EMP EMP
+
+You AND PRO
+can POS POS
+buy EXS EXS
+stamps CON CON
+at REL REL
+any AND DIS
+post~office CON CON
+. NIL NIL
+
+Tom PER PER
+'s HAS HAS
+eyes CON CON
+are NOW NOW
+red COL COL
+, NIL NIL
+and COO COO
+he PRO PRO
+looks ENS ENS
+very INT INT
+tired IST IST
+. NIL NIL
+
+Tom PER PER
+'s NOW NOW
+cooking EXG EXG
+breakfast CON CON
+. NIL NIL
+
+We PRO PRO
+played EPS EPS
+on REL REL
+the DEF DEF
+banks CON CON
+of REL REL
+the DEF DEF
+Thames GEO GEO
+. NIL NIL
+
+Tom PER PER
+handed EPS EPS
+Mary PER PER
+a DIS DIS
+glass CON CON
+of REL REL
+red~wine CON CON
+. NIL NIL
+
+We PRO PRO
+were PST PST
+right IST IST
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+many QUV QUV
+birds CON CON
+in REL REL
+this PRX PRX
+park CON CON
+. NIL NIL
+
+This PRX PRX
+is NOW NOW
+personal IST IST
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+angry IST IST
+now NOW NOW
+. NIL NIL
+
+We PRO PRO
+rented EPS EPS
+a DIS DIS
+canoe CON CON
+. NIL NIL
+
+I PRO PRO
+did PST PST
+n't NOT NOT
+murder EXS EXS
+anyone DIS DIS
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+saving EXG EXG
+up REL REL
+so~that SUB INT
+I PRO PRO
+can POS POS
+go EXS EXS
+to REL REL
+Australia GPE GPE
+. NIL NIL
+
+I PRO PRO
+like ENS ENS
+bright IST COL
+colors CON CON
+. NIL NIL
+
+I PRO PRO
+agree ENS ENS
+. NIL NIL
+
+Tom PER PER
+loves ENS ENS
+tulips CON CON
+. NIL NIL
+
+I PRO PRO
+love ENS ENS
+thick IST DEG
+, NIL NIL
+creamy IST IST
+mushroom CON CON
+soup CON CON
+. NIL NIL
+
+Tom PER PER
+honked EPS EPS
+the DEF DEF
+horn CON CON
+. NIL NIL
+
+He PRO PRO
+'s ENS ENS
+a DIS DIS
+terrible IST IST
+driver ROL ROL
+. NIL NIL
+
+She PRO PRO
+fled EPS EPS
+Australia GPE GPE
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+exhausted IST IST
+. NIL NIL
+
+The DEF DEF
+conference CON CON
+drew EPS EPS
+150 QUC QUC
+diplomats ROL ROL
+. NIL NIL
+
+Tom PER PER
+loved EPS EPS
+all AND AND
+of REL REL
+us PRO PRO
+. NIL NIL
+
+Tom PER PER
+twisted EPS EPS
+the DEF DEF
+truth CON CON
+. NIL NIL
+
+I PRO PRO
+admire ENS ENS
+his HAS HAS
+talent CON CON
+. NIL NIL
+
+The DEF DEF
+monkey CON CON
+escaped EPS EPS
+from REL REL
+its HAS HAS
+cage CON CON
+. NIL NIL
+
+A DIS DIS
+man CON CON
+is NOW NOW
+playing EXG EXG
+flute CON CON
+
+The DEF DEF
+badger CON CON
+is NOW NOW
+n't NOT NOT
+burrowing EXG EXG
+a DIS DIS
+hole CON CON
+
+Tom PER PER
+whispered EPS EPS
+something DIS DIS
+to REL REL
+Mary PER PER
+and COO COO
+she PRO PRO
+smiled EPS EPS
+. NIL NIL
+
+He PRO PRO
+asked EPS EPS
+if DIS DIS
+I PRO PRO
+like ENS ENS
+mathematics CON CON
+. NIL NIL
+
+Somebody DIS DIS
+was PST PST
+murdered EXS EXS
+. NIL NIL
+
+Baena~Soares PER PER
+was PST PST
+arrested EXS EXS
+by REL REL
+the DEF DEF
+armed~forces CON CON
+. NIL NIL
+
+Reform CON ORG
+allows ENS ENS
+home CON CON
+schooling CON CON
+. NIL NIL
+
+Everglades~National~Park GEO GPE
+is NOW NOW
+located IST IST
+in REL REL
+Florida GPE GPE
+. NIL NIL
+
+The DEF DEF
+Berlin~Wall ART GEO
+was PST PST
+torn EXS EXS
+down REL REL
+in REL REL
+1989 YOC YOC
+. NIL NIL
+
+Finishing EXG EXG
+the DEF DEF
+job CON CON
+by REL REL
+Tuesday DOW DOW
+will FUT FUT
+be EXS EXS
+a DIS DIS
+piece~of~cake CON CON
+. NIL NIL
+
+A DIS DIS
+smell CON CON
+of REL REL
+lilies CON CON
+filled EPS EPS
+the DEF DEF
+room CON CON
+. NIL NIL
+
+Who QUE QUE
+wrote EPS EPS
+this PRX PRX
+book CON CON
+? QUE QUE
+
+The DEF DEF
+dog CON CON
+is NOW NOW
+dying EXG EXG
+. NIL NIL
+
+John PER PER
+lives ENS ENS
+in REL REL
+New~York GPE GPE
+. NIL NIL
+
+This PRX PRX
+hospital CON CON
+has ENS ENS
+a DIS DIS
+lot QUV QUV
+of REL REL
+new IST IST
+equipment CON CON
+. NIL NIL
+
+He PRO PRO
+wants ENS ENS
+the DEF DEF
+money CON CON
+. NIL NIL
+
+My HAS HAS
+mother~tongue CON CON
+is ENS ENS
+Japanese CON CON
+. NIL NIL
+
+I PRO PRO
+do NOW NOW
+n't NOT NOT
+have EXS EXS
+a DIS DIS
+bicycle CON CON
+. NIL NIL
+
+Where QUE QUE
+'s ENS ENS
+the DEF DEF
+newspaper CON CON
+? QUE QUE
+
+The DEF DEF
+Prime~Minister ROL ROL
+has NOW NOW
+resigned EXT EXT
+. NIL NIL
+
+Nobody NOT NOT
+can POS POS
+surpass EXS EXS
+him PRO PRO
+. NIL NIL
+
+You PRO PRO
+are ENS ENS
+on REL REL
+the DEF DEF
+wrong IST IST
+train CON CON
+. NIL NIL
+
+She PRO PRO
+wrinkled EPS EPS
+her HAS HAS
+brows CON CON
+. NIL NIL
+
+He PRO PRO
+had EPS EPS
+one QUC QUC
+daughter ROL ROL
+. NIL NIL
+
+The DEF DEF
+postman ROL ROL
+was PST PST
+bitten EXS EXS
+by REL REL
+that DST DST
+dog CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+pregnant IST IST
+. NIL NIL
+
+My HAS HAS
+shoes CON CON
+are NOW NOW
+brown COL COL
+. NIL NIL
+
+He PRO PRO
+was PST PST
+brave IST IST
+. NIL NIL
+
+The DEF DEF
+dog CON CON
+is NOW NOW
+white COL COL
+. NIL NIL
+
+Mayuko PER PER
+designed EPS EPS
+her HAS HAS
+own REF IST
+clothes CON CON
+. NIL NIL
+
+This PRX PRX
+house CON CON
+is NOW NOW
+famous IST IST
+. NIL NIL
+
+Is NOW NOW
+my HAS HAS
+explanation CON CON
+clear IST IST
+? QUE QUE
+
+Who QUE QUE
+sings ENS ENS
+that DST DST
+song CON CON
+? QUE QUE
+
+The DEF DEF
+bicycle CON CON
+is ENS ENS
+mine HAS PRO
+. NIL NIL
+
+Oscar NTH PER
+was EPS EPS
+my HAS HAS
+mum ROL ROL
+'s HAS HAS
+dog CON CON
+. NIL NIL
+
+According IST IST
+to REL REL
+the DEF DEF
+radio CON CON
+, NIL NIL
+it NIL NIL
+will FUT FUT
+rain EXS EXS
+tomorrow FUT FUT
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+so INT INT
+tired IST IST
+! EMP EMP
+
+He PRO PRO
+was PST PST
+heartbroken IST IST
+. NIL NIL
+
+This PRX PRX
+is ENS ENS
+Tom PER PER
+'s HAS HAS
+canary CON CON
+. NIL NIL
+
+The DEF DEF
+thief ROL ROL
+hid EPS EPS
+in REL REL
+the DEF DEF
+dark IST DEG
+doorway CON CON
+. NIL NIL
+
+I PRO PRO
+love ENS ENS
+Natasha PER PER
+. NIL NIL
+
+How QUE QUE
+much QUV QUV
+does NOW NOW
+this PRX PRX
+tie CON CON
+cost EXS EXS
+? QUE QUE
+
+The DEF DEF
+South~African GPE GPO
+- NIL NIL
+based IST IST
+Conservation~Corporation ORG ORG
+threatens ENS ENS
+the DEF DEF
+local IST IST
+population CON CON
+. NIL NIL
+
+Approximately APX APX
+60,000 QUC QUC
+Saxon GPO GPO
+farmers ROL ROL
+were PST PST
+disowned EXS EXS
+during REL REL
+the DEF DEF
+agricultural IST IST
+reform CON CON
+. NIL NIL
+
+HBV~Union ORG ORG
+Criticizes ENS ENS
+Deutsche~Bank ORG ORG
+
+The DEF DEF
+Austrian GPO GPO
+job CON CON
+market CON CON
+is NOW NOW
+also ALT ALT
+improving EXG EXG
+. NIL NIL
+
+How QUE QUE
+tall IST DEG
+was PST PST
+Judy~Garland PER PER
+? QUE QUE
+
+Who QUE QUE
+founded EPS EPS
+Rhode~Island GPE GPE
+? QUE QUE
+
+Which QUE QUE
+state CON CON
+has ENS ENS
+the DEF DEF
+longest TOP TOP
+coastline CON CON
+on REL REL
+the DEF DEF
+Atlantic~Ocean GEO GEO
+? QUE QUE
+
+Who QUE QUE
+is ENS ENS
+the DEF DEF
+most TOP TOP
+famous IST IST
+international IST IST
+terrorist ROL ROL
+? QUE QUE
+
+How QUE QUE
+tall DEG DEG
+is NOW NOW
+Matterhorn GEO ORG
+? QUE QUE
+
+How QUE QUE
+many QUV QUV
+inhabitants ROL ROL
+does NOW NOW
+Kanazawa GPE GPE
+have EXS EXS
+? QUE QUE
+
+Tom PER PER
+wo FUT FUT
+n't NOT NOT
+speak EXS EXS
+to REL REL
+Mary PER PER
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+acquainted IST IST
+with REL REL
+Mr ROL ROL
+Smith PER PER
+. NIL NIL
+
+I PRO PRO
+need ENS ENS
+to NIL NIL
+buy EXS EXS
+one CON CON
+. NIL NIL
+
+I PRO PRO
+think ENS ENS
+Tom PER PER
+is NOW NOW
+outgoing IST IST
+. NIL NIL
+
+I PRO PRO
+saw EPS EPS
+everything AND AND
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+not NOT NOT
+Irish GPO GPO
+. NIL NIL
+
+I PRO PRO
+have ENS ENS
+an DIS DIS
+electric~guitar CON CON
+. NIL NIL
+
+The DEF DEF
+pilot ROL ROL
+raced EPS EPS
+for REL REL
+Ferrari ORG ORG
+from REL REL
+1995 YOC YOC
+to REL REL
+1999 YOC YOC
+. NIL NIL
+
+Mary PER PER
+hates ENS ENS
+parties CON CON
+. NIL NIL
+
+I PRO PRO
+owe ENS ENS
+him PRO PRO
+1,000 QUC QUC
+dollars UOM UOM
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+exceptional IST IST
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+putting EXG EXG
+the DEF DEF
+children CON CON
+to REL REL
+bed CON CON
+. NIL NIL
+
+I PRO PRO
+spent EPS EPS
+no NOT NOT
+more~than MOR MOR
+three QUC QUC
+dollars UOM UOM
+. NIL NIL
+
+My HAS HAS
+father ROL ROL
+'s ENS ENS
+in REL REL
+the DEF DEF
+garden CON CON
+. NIL NIL
+
+Two QUC QUC
+years UOM UOM
+ago PST PST
+I PRO PRO
+went EPS EPS
+to REL REL
+China GPE GPE
+. NIL NIL
+
+The AND DEF
+dove CON CON
+symbolizes EXS ENS
+peace CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+extremely INT INT
+strong IST DEG
+. NIL NIL
+
+Tom PER PER
+puts ENS ENS
+stevia CON CON
+in REL REL
+his HAS HAS
+coffee CON CON
+instead NOT NOT
+of REL REL
+sugar CON CON
+. NIL NIL
+
+Tom PER PER
+wiped EPS EPS
+the DEF DEF
+sweat CON CON
+from REL REL
+his HAS HAS
+forehead CON CON
+. NIL NIL
+
+Which QUE QUE
+suitcases CON CON
+are ENS ENS
+Tom PER PER
+'s HAS HAS
+? QUE QUE
+
+There NIL NIL
+is ENS ENS
+yogurt CON CON
+in REL REL
+the DEF DEF
+refrigerator CON CON
+. NIL NIL
+
+Someone DIS DIS
+has NOW NOW
+given EXT EXT
+me PRO PRO
+the DEF DEF
+cold CON CON
+. NIL NIL
+
+What QUE QUE
+'s ENS ENS
+your HAS HAS
+favorite TOP TOP
+cartoon CON CON
+? QUE QUE
+
+Tom PER PER
+rolled EPS EPS
+over REL REL
+in REL REL
+bed CON CON
+. NIL NIL
+
+She PRO PRO
+handed EPS EPS
+him PRO PRO
+the DEF DEF
+money CON CON
+that AND AND
+she PRO PRO
+owed EPS EPS
+him PRO PRO
+. NIL NIL
+
+I PRO PRO
+was PST PST
+born EXS EXS
+on REL REL
+June MOY MOY
+4 DOM DOM
+, NIL NIL
+1974 YOC YOC
+. NIL NIL
+
+I PRO PRO
+, NIL NIL
+too ALT ALT
+, NIL NIL
+am NOW NOW
+worried IST IST
+about REL REL
+Tom PER PER
+. NIL NIL
+
+This PRX PRX
+wine CON CON
+'s NOW NOW
+very INT INT
+intoxicating IST IST
+. NIL NIL
+
+Tom PER PER
+loves ENS ENS
+chocolate~cake CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+very INT INT
+naive DEG IST
+, DIS NIL
+is NOW NOW
+n't NOT NOT
+he PRO PRO
+? QUE QUE
+
+I PRO PRO
+saw EPS EPS
+her PRO PRO
+a DIS DIS
+week UOM UOM
+ago PST PST
+. NIL NIL
+
+My HAS HAS
+father ROL ROL
+was EPS EPS
+an DIS DIS
+engineer ROL ROL
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+taller MOR MOR
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+athletic IST IST
+. NIL NIL
+
+She PRO PRO
+idolized EPS EPS
+him PRO PRO
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+a DIS DIS
+number QUV QUV
+of REL REL
+movie~theaters CON CON
+in REL REL
+this PRX PRX
+city CON CON
+. NIL NIL
+
+I PRO PRO
+made EPS EPS
+supper CON CON
+. NIL NIL
+
+Maybe POS POS
+he PRO PRO
+is NOW NOW
+Italian GPO GPO
+or DIS DIS
+Spanish GPO GPO
+. NIL NIL
+
+I PRO PRO
+forgot EPS EPS
+the DEF DEF
+password CON CON
+. NIL NIL
+
+It PRO PRO
+matters ENS ENS
+to REL REL
+us PRO PRO
+. NIL NIL
+
+This PRX PRX
+news CON CON
+is NOW NOW
+official IST IST
+. NIL NIL
+
+I PRO PRO
+have ENS ENS
+eight QUC QUC
+brothers ROL ROL
+. NIL NIL
+
+I PRO PRO
+adore ENS ENS
+elephants CON CON
+. NIL NIL
+
+Mary PER PER
+has ENS ENS
+nice IST IST
+legs CON CON
+. NIL NIL
+
+I PRO PRO
+can POS POS
+not NOT NOT
+speak EXS EXS
+German CON CON
+. NIL NIL
+
+We PRO PRO
+expect ENS ENS
+that SUB SUB
+he PRO PRO
+will FUT FUT
+pass EXS EXS
+the DEF DEF
+examination CON CON
+. NIL NIL
+
+Many QUV QUV
+Finns GPO ROL
+are NOW NOW
+interested IST IST
+in REL REL
+culture CON CON
+. NIL NIL
+
+He PRO PRO
+bought EPS EPS
+me PRO PRO
+a DIS DIS
+new IST IST
+dictionary CON CON
+. NIL NIL
+
+Who QUE QUE
+did PST PST
+William~Wallace PER PER
+defeat EXS EXS
+? QUE QUE
+
+I PRO PRO
+'m NOW NOW
+disgusted IST IST
+. NIL NIL
+
+I PRO PRO
+never NOT NOT
+saw EPS EPS
+you PRO PRO
+. NIL NIL
+
+The DEF DEF
+insulin CON CON
+was PST PST
+making EXG EXG
+her PRO PRO
+fat IST IST
+. NIL NIL
+
+I PRO PRO
+want ENS ENS
+a DIS DIS
+divorce CON CON
+. NIL NIL
+
+I PRO PRO
+want ENS ENS
+this PRX PRX
+bag CON CON
+. NIL NIL
+
+Let FUT FUT
+'s PRO PRO
+play EXS EXS
+baseball CON CON
+. NIL NIL
+
+I PRO PRO
+told EPS EPS
+him PRO PRO
+everything AND AND
+. NIL NIL
+
+I PRO PRO
+will FUT FUT
+make EXS EXS
+a DIS DIS
+note CON CON
+in REL REL
+my HAS HAS
+notebook CON CON
+. NIL NIL
+
+I PRO PRO
+have NOW NOW
+not NOT NOT
+eaten EXT EXT
+any DIS DIS
+poisonous IST IST
+mushrooms CON CON
+! EMP EMP
+
+This PRX PRX
+imbecile ROL CON
+has ENS ENS
+sharp IST DEG
+teeth CON CON
+. NIL NIL
+
+I PRO PRO
+forgot EPS EPS
+my HAS HAS
+pen CON CON
+. NIL NIL
+
+You PRO PRO
+'re NOW NOW
+silly IST IST
+. NIL NIL
+
+I PRO PRO
+wonder ENS ENS
+if DIS DIS
+this PRX PRX
+milk CON CON
+is NOW NOW
+still ALT ALT
+good IST IST
+. NIL NIL
+
+I PRO PRO
+accept ENS ENS
+your HAS HAS
+offer CON CON
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+intelligent IST IST
+. NIL NIL
+
+That DST DST
+'s NOW NOW
+humiliating IST EXG
+. NIL NIL
+
+Tom PER PER
+quit EPS EPS
+. NIL NIL
+
+He PRO PRO
+loves ENS ENS
+animals CON CON
+. NIL NIL
+
+Tom PER PER
+drank EPS EPS
+the DEF DEF
+potion CON CON
+. NIL NIL
+
+They PRO PRO
+called EPS EPS
+President ROL ROL
+Roosevelt PER PER
+a DIS DIS
+pirate ROL ROL
+. NIL NIL
+
+I PRO PRO
+skipped EPS EPS
+breakfast CON CON
+. NIL NIL
+
+They PRO PRO
+'re NOW NOW
+disposable IST IST
+. NIL NIL
+
+The DEF DEF
+eggs CON CON
+are ENS ENS
+in REL REL
+the DEF DEF
+basket CON CON
+. NIL NIL
+
+I PRO PRO
+may POS POS
+have NOW NOW
+met EXT EXT
+her PRO PRO
+somewhere DIS DIS
+. NIL NIL
+
+One AND CON
+can POS POS
+not NOT NOT
+not NOT NOT
+communicate EXS EXS
+. NIL NIL
+
+You PRO PRO
+'re NOW NOW
+wise IST IST
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+angry IST IST
+, NIL NIL
+is NOW NOW
+n't NOT NOT
+he PRO PRO
+? QUE QUE
+
+Tom PER PER
+is ENS ENS
+Mary PER PER
+'s HAS HAS
+stepson ROL ROL
+. NIL NIL
+
+Tom PER PER
+put EPS EPS
+our HAS HAS
+old IST DEG
+computer CON CON
+in REL REL
+the DEF DEF
+cellar CON CON
+. NIL NIL
+
+The DEF DEF
+submarine CON CON
+hid EPS EPS
+in REL REL
+the DEF DEF
+depths CON CON
+of REL REL
+the DEF DEF
+ocean CON CON
+. NIL NIL
+
+He PRO PRO
+'s ENS ENS
+a DIS DIS
+very INT INT
+talented IST IST
+man CON CON
+. NIL NIL
+
+I PRO PRO
+can POS POS
+prove EXS EXS
+it PRO PRO
+to REL REL
+you PRO PRO
+. NIL NIL
+
+I PRO PRO
+was PST PST
+dazzled EXS EXS
+by REL REL
+her HAS HAS
+beauty CON CON
+. NIL NIL
+
+The DEF DEF
+monkey CON CON
+climbed EPS EPS
+up REL REL
+a DIS DIS
+tree CON CON
+. NIL NIL
+
+We PRO PRO
+captured EPS EPS
+cicadas CON CON
+with REL REL
+a DIS DIS
+net CON CON
+. NIL NIL
+
+I PRO PRO
+'ll FUT FUT
+buy EXS EXS
+him PRO PRO
+a DIS DIS
+pencil CON CON
+. NIL NIL
+
+Mary PER PER
+is ENS ENS
+a DIS DIS
+fashion CON CON
+junkie ROL ROL
+. NIL NIL
+
+Tom PER PER
+put EPS EPS
+his HAS HAS
+pistol CON CON
+under REL REL
+his HAS HAS
+pillow CON CON
+. NIL NIL
+
+My HAS HAS
+son ROL ROL
+is NOW NOW
+playing EXG EXG
+in REL REL
+the DEF DEF
+rain CON CON
+. NIL NIL
+
+Tom PER PER
+was PST PST
+unarmed IST IST
+. NIL NIL
+
+The DEF DEF
+tower CON CON
+is NOW NOW
+fifteen QUC QUC
+metres UOM UOM
+high DEG DEG
+. NIL NIL
+
+The DEF DEF
+tires CON CON
+are NOW NOW
+very INT INT
+sticky IST IST
+. NIL NIL
+
+She PRO PRO
+put EPS EPS
+in REL REL
+for REL REL
+a DIS DIS
+raise CON CON
+. NIL NIL
+
+The DEF DEF
+eagle CON CON
+is NOW NOW
+white COL COL
+. NIL NIL
+
+It PRO PRO
+'s NOW ENS
+October MOY MOY
+the EQU DEF
+third DOM DOM
+. NIL NIL
+
+He PRO PRO
+was PST PST
+killed EXS EXS
+by REL REL
+a DIS DIS
+land~mine CON CON
+. NIL NIL
+
+I PRO PRO
+wo FUT FUT
+n't NOT NOT
+play EXS EXS
+because SUB SUB
+I PRO PRO
+'ve NOW NOW
+twisted EXT EXT
+my HAS HAS
+ankle CON CON
+. NIL NIL
+
+I PRO PRO
+hate ENS ENS
+birthday~parties CON CON
+. NIL NIL
+
+Bob PER PER
+'s HAS HAS
+father ROL ROL
+works ENS ENS
+in REL REL
+a DIS DIS
+car~factory CON CON
+. NIL NIL
+
+The DEF DEF
+medicine CON CON
+did PST PST
+n't NOT NOT
+help EXS EXS
+at~all EMP EMP
+. NIL NIL
+
+Tom PER PER
+wore EPS EPS
+a DIS DIS
+Hawaiian GPO GPO
+shirt CON CON
+. NIL NIL
+
+You PRO PRO
+must NEC NEC
+n't NOT NOT
+throw EXS EXS
+litter CON CON
+in REL REL
+the DEF DEF
+street CON CON
+. NIL NIL
+
+Where QUE QUE
+does NOW NOW
+your HAS HAS
+grandfather ROL ROL
+live EXS EXS
+? QUE QUE
+
+These PRX PRX
+horses CON CON
+are ENS ENS
+Tom PER PER
+'s HAS HAS
+. NIL NIL
+
+He PRO PRO
+made EPS EPS
+Miss ROL ROL
+Green PER PER
+his HAS HAS
+secretary ROL CON
+. NIL NIL
+
+He PRO PRO
+devoted EPS EPS
+his HAS HAS
+life CON CON
+to REL REL
+his HAS HAS
+company CON CON
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+working EXG EXG
+in REL REL
+the DEF DEF
+field CON CON
+of REL REL
+biology CON CON
+. NIL NIL
+
+Tom PER PER
+might POS POS
+be NIL NIL
+busy IST IST
+. NIL NIL
+
+I PRO PRO
+grew EPS EPS
+up REL REL
+in REL REL
+a DIS DIS
+small DEG DEG
+town CON CON
+. NIL NIL
+
+Tom PER PER
+deposited EPS EPS
+some DIS DIS
+money CON CON
+in REL REL
+the DEF DEF
+bank CON CON
+. NIL NIL
+
+Tom PER PER
+has ENS ENS
+a DIS DIS
+boat CON CON
+. NIL NIL
+
+Wolves CON CON
+stalked EPS EPS
+the DEF DEF
+flock CON CON
+. NIL NIL
+
+The DEF DEF
+day CON CON
+was PST PST
+exhausting IST EXG
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+buying EXG EXG
+fruit CON CON
+and GRP GRP
+chocolate CON CON
+. NIL NIL
+
+Tom PER PER
+walked EPS EPS
+into REL REL
+Mary PER PER
+'s HAS HAS
+room CON CON
+. NIL NIL
+
+Yesterday PST PST
+I PRO PRO
+was PST PST
+ill IST IST
+. NIL NIL
+
+The DEF DEF
+dog CON CON
+is NOW NOW
+red COL COL
+. NIL NIL
+
+They PRO PRO
+marched EPS EPS
+two QUC QUC
+abreast IST IST
+. NIL NIL
+
+The DEF DEF
+city CON CON
+walls CON CON
+are NOW NOW
+so INT INT
+beautiful IST IST
+! EMP EMP
+
+She PRO PRO
+ordered EPS EPS
+the DEF DEF
+book CON CON
+from REL REL
+London GPE GPE
+. NIL NIL
+
+How QUE QUE
+many QUV QUV
+magazines CON CON
+are ENS ENS
+on REL REL
+the DEF DEF
+desk CON CON
+? QUE QUE
+
+They PRO PRO
+have NEC ENS
+to NIL NIL
+go EXS EXS
+to REL REL
+school CON CON
+. NIL NIL
+
+We PRO PRO
+should NEC NEC
+break EXS EXS
+up REL REL
+. NIL NIL
+
+I PRO PRO
+wanted EPS EPS
+to NIL NIL
+run EXS EXS
+away REL REL
+with REL REL
+Tom PER PER
+. NIL NIL
+
+This PRX PRX
+road CON CON
+is NOW NOW
+n't NOT NOT
+very INT INT
+safe IST IST
+. NIL NIL
+
+No NOT NOT
+one CON CON
+expected EPS EPS
+him PRO PRO
+to NIL NIL
+win EXS EXS
+. NIL NIL
+
+I PRO PRO
+was PST PST
+very INT INT
+selfish IST IST
+. NIL NIL
+
+He PRO PRO
+walked EPS EPS
+along REL REL
+the DEF DEF
+river CON CON
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+suffering EXG EXG
+from REL REL
+a DIS DIS
+cold CON CON
+. NIL NIL
+
+Tom PER PER
+suspected EPS EPS
+that SUB SUB
+his HAS HAS
+father ROL ROL
+was PST PST
+dyslexic IST IST
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+in~love IST IST
+with REL REL
+her PRO PRO
+. NIL NIL
+
+They PRO PRO
+furnished EPS EPS
+the DEF DEF
+library CON CON
+with REL REL
+new IST IST
+books CON CON
+. NIL NIL
+
+No NOT NOT
+one CON CON
+was PST PST
+alive IST IST
+. NIL NIL
+
+Tom PER PER
+offered EPS EPS
+to NIL NIL
+lend EXS EXS
+me PRO PRO
+the DEF DEF
+money CON CON
+. NIL NIL
+
+I PRO PRO
+work ENS ENS
+at REL REL
+the DEF DEF
+post~office CON CON
+. NIL NIL
+
+No NOT NOT
+one CON CON
+is NOW NOW
+perfect IST IST
+. NIL NIL
+
+That DST DST
+apple CON CON
+is NOW NOW
+bruised EXS EXS
+. NIL NIL
+
+Tom PER PER
+was PST PST
+hiding EXG EXG
+behind REL REL
+a DIS DIS
+tree CON CON
+. NIL NIL
+
+Tom PER PER
+went EPS EPS
+to REL REL
+the DEF DEF
+theater CON CON
+with REL REL
+Mary PER PER
+. NIL NIL
+
+They PRO PRO
+'re NOW NOW
+kidding EXG EXG
+. NIL NIL
+
+The DEF DEF
+young DEG DEG
+boy CON CON
+helped EPS EPS
+the DEF DEF
+old DEG DEG
+woman CON CON
+. NIL NIL
+
+What EMP EMP
+a DIS DIS
+letdown CON CON
+! EMP EMP
+
+Lungs CON CON
+, REL REL
+heart CON CON
+, REL REL
+veins CON CON
+, REL REL
+arteries CON CON
+and GRP GRP
+capillaries CON CON
+form ENS ENS
+the DEF DEF
+cardiovascular~system CON CON
+. NIL NIL
+
+What EMP EMP
+a DIS DIS
+pessimism CON CON
+! EMP EMP
+
+All AND AND
+journeys CON CON
+begin EXS ENS
+with REL REL
+a DIS DIS
+first~step CON CON
+. NIL NIL
+
+Fire CON CON
+burns ENS ENS
+. NIL NIL
+
+What QUE QUE
+month CON CON
+is ENS ENS
+this PRX PRX
+? QUE QUE
+
+Lincoln PER PER
+welcomed EPS EPS
+his HAS HAS
+old IST DEG
+political IST IST
+opponent ROL ROL
+. NIL NIL
+
+There NIL NIL
+is NOW ENS
+a DIS DIS
+little IST IST
+boy CON CON
+walking EXG EXG
+with REL REL
+his HAS HAS
+dog CON CON
+. NIL NIL
+
+These PRX PRX
+are NOW NOW
+fresh IST IST
+. NIL NIL
+
+She PRO PRO
+is NOW NOW
+listening EXG EXG
+to REL REL
+him PRO PRO
+. NIL NIL
+
+Tom PER PER
+is ENS ENS
+n't NOT NOT
+my HAS HAS
+father ROL ROL
+. NIL NIL
+
+Everything AND AND
+is NOW NOW
+all~right IST IST
+now NOW NOW
+. NIL NIL
+
+Try EXS EXS
+hard IST IST
+. NIL NIL
+
+Mary PER PER
+hates ENS ENS
+Halloween HAP PER
+. NIL NIL
+
+Mr. ROL ROL
+Ford PER PER
+is NOW NOW
+all~right IST IST
+now NOW NOW
+. NIL NIL
+
+Maybe POS POS
+Tom PER PER
+was PST PST
+right IST IST
+. NIL NIL
+
+I PRO PRO
+will FUT FUT
+meet EXS EXS
+you PRO PRO
+at REL REL
+the DEF DEF
+station CON CON
+at REL REL
+10~a.m. CLO CLO
+
+Is NOW NOW
+Tom PER PER
+retired IST IST
+? QUE QUE
+
+My HAS HAS
+favorite TOP TOP
+German GPO GPO
+band CON CON
+is ENS ENS
+Juli ORG ORG
+. NIL NIL
+
+The DEF DEF
+news CON CON
+spread EPS EPS
+fast IST DEG
+. NIL NIL
+
+This PRX PRX
+restaurant CON CON
+is NOW NOW
+less LES INT
+expensive IST IST
+. NIL NIL
+
+You PRO PRO
+'re NOW NOW
+taunting EXG EXG
+me PRO PRO
+. NIL NIL
+
+The DEF DEF
+policeman ROL ROL
+was PST PST
+off IST IST
+duty CON CON
+. NIL NIL
+
+That DST DST
+'s NOW NOW
+cool IST IST
+. NIL NIL
+
+You PRO PRO
+'re NOW NOW
+older MOR MOR
+than REL REL
+him PRO PRO
+. NIL NIL
+
+Tom PER PER
+sharpened EPS EPS
+the DEF DEF
+knife CON CON
+. NIL NIL
+
+You PRO PRO
+'re NOW NOW
+terrible IST IST
+. NIL NIL
+
+Tom PER PER
+underestimated EPS EPS
+Mary PER PER
+. NIL NIL
+
+This PRX PRX
+disturbs ENS ENS
+him PRO PRO
+. NIL NIL
+
+Oil EXS EXS
+this PRX PRX
+bicycle CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+game IST EXG
+. NIL NIL
+
+Tom PER PER
+'s NOW NOW
+smiling EXG EXG
+. NIL NIL
+
+He PRO PRO
+disappeared EPS EPS
+again ALT ALT
+. NIL NIL
+
+We PRO PRO
+got PST EPS
+dressed EXT EXS
+. NIL NIL
+
+I PRO PRO
+love ENS ENS
+hamburgers CON CON
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+horrified IST IST
+. NIL NIL
+
+She PRO PRO
+'s NOW NOW
+cleaning EXG EXG
+out REL REL
+her HAS HAS
+closet CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+swimming EXG EXG
+in REL REL
+the DEF DEF
+river CON CON
+. NIL NIL
+
+Tom PER PER
+stared EPS EPS
+at REL REL
+Mary PER PER
+suspiciously IST IST
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+not NOT NOT
+like IST IST
+you PRO PRO
+. NIL NIL
+
+Push EXS EXS
+the DEF DEF
+button CON CON
+. NIL NIL
+
+I PRO PRO
+abhor ENS ENS
+spiders CON CON
+. NIL NIL
+
+Tom PER PER
+arrived EPS EPS
+at REL REL
+2:30 CLO CLO
+. NIL NIL
+
+We PRO PRO
+concurred EPS EPS
+. NIL NIL
+
+It PRO PRO
+'s NOW NOW
+eleven CLO CLO
+and COO COO
+he PRO PRO
+'s NOW NOW
+not NOT NOT
+coming EXG EXG
+. NIL NIL
+
+Tom PER PER
+likes ENS ENS
+his HAS HAS
+coffee CON CON
+black IST COL
+. NIL NIL
+
+Tom PER PER
+scored EPS EPS
+three QUC QUC
+goals CON CON
+. NIL NIL
+
+It PRO PRO
+'s NOW NOW
+vibrating EXG EXG
+. NIL NIL
+
+Tom PER PER
+looks ENS ENS
+hesitant IST IST
+. NIL NIL
+
+She PRO PRO
+cared EPS EPS
+for REL REL
+her HAS HAS
+sick IST IST
+mother ROL ROL
+. NIL NIL
+
+He PRO PRO
+darkens ENS ENS
+the DEF DEF
+room CON CON
+. NIL NIL
+
+Tom PER PER
+squeezed EPS EPS
+this PRX PRX
+orange~juice CON CON
+himself EMP EMP
+. NIL NIL
+
+She PRO PRO
+forgave EPS EPS
+you PRO PRO
+. NIL NIL
+
+Tom PER PER
+insulted EPS EPS
+Mary PER PER
+. NIL NIL
+
+I PRO PRO
+found EPS EPS
+this PRX PRX
+under REL REL
+your HAS HAS
+bed CON CON
+. NIL NIL
+
+Grow EXS EXS
+up REL REL
+! EMP EMP
+
+I PRO PRO
+will FUT FUT
+help EXS EXS
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+bilingual IST IST
+. NIL NIL
+
+She PRO PRO
+dialed EPS EPS
+the DEF DEF
+wrong IST IST
+number CON CON
+. NIL NIL
+
+We PRO PRO
+found EPS EPS
+one CON CON
+. NIL NIL
+
+Comfort EXS CON
+him PRO PRO
+. NIL NIL
+
+We PRO PRO
+should NEC NEC
+organize EXS EXS
+a DIS DIS
+search~party CON CON
+. NIL NIL
+
+Read EXS EXS
+this PRX PRX
+. NIL NIL
+
+She PRO PRO
+was PST PST
+arrested EXS EXS
+by REL REL
+the DEF DEF
+police CON CON
+. NIL NIL
+
+Give EXS EXS
+this PRX PRX
+book CON CON
+to REL REL
+Ramu PER PER
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+illiterate IST IST
+. NIL NIL
+
+The DEF DEF
+company CON CON
+spends ENS ENS
+a DIS DIS
+lot QUV QUV
+of REL REL
+money CON CON
+on REL REL
+advertising CON EXG
+. NIL NIL
+
+I PRO PRO
+demand ENS ENS
+a DIS DIS
+refund CON CON
+. NIL NIL
+
+I PRO PRO
+can POS POS
+not NOT NOT
+swim EXS EXS
+at~all EMP EMP
+. NIL NIL
+
+Tom PER PER
+knew EPS EPS
+something DIS DIS
+. NIL NIL
+
+Tom PER PER
+mashed EPS EPS
+the DEF DEF
+potatoes CON CON
+with REL REL
+a DIS DIS
+large DEG DEG
+fork CON CON
+. NIL NIL
+
+A DIS DIS
+soccer~ball CON CON
+is NOW NOW
+rolling EXG EXG
+into REL REL
+a DIS DIS
+goal CON CON
+net CON CON
+
+Tom PER PER
+is NOW NOW
+more MOR MOR
+famous IST IST
+than REL REL
+you PRO PRO
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+playing EXG EXG
+Chopin CON CON
+. NIL NIL
+
+The DEF DEF
+committee CON CON
+is NOW NOW
+composed EXS EXS
+of REL REL
+three QUC QUC
+men CON CON
+and GRP GRP
+seven QUC QUC
+women CON CON
+. NIL NIL
+
+Franz~Liszt PER PER
+lived EPS EPS
+from REL REL
+1811 YOC YOC
+to REL REL
+1886 YOC YOC
+. NIL NIL
+
+Senacal PER PER
+resides ENS ENS
+in REL REL
+Cortland~Manor GPE GPE
+. NIL NIL
+
+Dinosaur CON CON
+remains CON CON
+were PST PST
+found EXS EXS
+in REL REL
+Asia GPE GPE
+. NIL NIL
+
+But BUT BUT
+the DEF DEF
+universe CON CON
+is NOW NOW
+infinite IST IST
+. NIL NIL
+
+Mary PER PER
+can POS POS
+speak EXS EXS
+Japanese CON CON
+. NIL NIL
+
+Picasso PER PER
+is ENS ENS
+a DIS DIS
+famous IST IST
+artist ROL ROL
+. NIL NIL
+
+Germany GPE GPE
+borders ENS ENS
+on REL REL
+France GPE GPE
+. NIL NIL
+
+This PRX PRX
+is ENS ENS
+the DEF DEF
+end CON CON
+of REL REL
+my HAS HAS
+story CON CON
+. NIL NIL
+
+This PRX PRX
+box CON CON
+is NOW NOW
+not NOT NOT
+as EQU EQU
+big IST IST
+as REL REL
+that DST DST
+one CON CON
+. NIL NIL
+
+Antique IST IST
+carpets CON CON
+are NOW NOW
+especially INT INT
+valuable IST IST
+. NIL NIL
+
+The DEF DEF
+telephone CON CON
+rang EPS EPS
+repeatedly ALT IST
+. NIL NIL
+
+He PRO PRO
+drank EPS EPS
+three QUC QUC
+bottles CON CON
+of AND REL
+beer CON CON
+. NIL NIL
+
+I PRO PRO
+think ENS ENS
+that SUB SUB
+she PRO PRO
+is NOW NOW
+honest IST IST
+. NIL NIL
+
+She PRO PRO
+grew EPS EPS
+roses CON CON
+. NIL NIL
+
+The DEF DEF
+wind CON CON
+is NOW NOW
+blowing EXG EXG
+. NIL NIL
+
+He PRO PRO
+needs ENS ENS
+an DIS DIS
+umbrella CON CON
+. NIL NIL
+
+The DEF DEF
+television CON CON
+is NOW NOW
+not NOT NOT
+working EXG EXG
+
+Sumatra GPE GPE
+is ENS ENS
+an DIS DIS
+island CON CON
+. NIL NIL
+
+Do NOW NOW
+you PRO PRO
+speak EXS EXS
+Hebrew CON CON
+? QUE QUE
+
+They PRO PRO
+have NOW NOW
+drunk EXT EXT
+two QUC QUC
+bottles CON CON
+of AND REL
+wine CON CON
+. NIL NIL
+
+I PRO PRO
+'m ENS ENS
+a DIS DIS
+foreigner ROL ROL
+. NIL NIL
+
+He PRO PRO
+stole EPS EPS
+money CON CON
+from REL REL
+me PRO PRO
+. NIL NIL
+
+I PRO PRO
+was PST PST
+furious IST IST
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+very INT INT
+short DEG DEG
+. NIL NIL
+
+Where QUE QUE
+did PST PST
+you PRO PRO
+see EXS EXS
+the DEF DEF
+boy CON CON
+? QUE QUE
+
+Let FUT FUT
+us PRO PRO
+develop EXS EXS
+this PRX PRX
+. NIL NIL
+
+Some APX DIS
+2,000 QUC QUC
+people CON CON
+are NOW NOW
+currently NOW NOW
+employed EXS EXS
+at REL REL
+the DEF DEF
+Suzano GEO GPE
+industrial~park CON CON
+. NIL NIL
+
+The DEF DEF
+Chinese GPO GPO
+leadership CON ROL
+has NOW NOW
+called EXT EXT
+on REL REL
+German GPO GPO
+business CON CON
+to NIL NIL
+interfere EXS EXS
+with REL REL
+the DEF DEF
+German GPO GPO
+government CON CON
+'s HAS HAS
+China GPE GPE
+policy CON CON
+. NIL NIL
+
+Who QUE QUE
+makes ENS ENS
+Magic~Chef ORG ORG
+refrigerators CON CON
+? QUE QUE
+
+What QUE QUE
+year CON CON
+did PST PST
+the DEF DEF
+" NIL NIL
+Mar~Egeo ART ART
+" NIL NIL
+sink EXS EXS
+? QUE QUE
+
+Where QUE QUE
+is ENS ENS
+Basra GPE GPE
+? QUE QUE
+
+How QUE QUE
+many QUV QUV
+time~zones CON CON
+are ENS ENS
+there NIL NIL
+in REL REL
+the DEF DEF
+world CON CON
+? QUE QUE
+
+What QUE QUE
+is ENS ENS
+the DEF DEF
+longest TOP TOP
+river CON CON
+in REL REL
+the DEF DEF
+world CON CON
+? QUE QUE
+
+He PRO PRO
+married EPS EPS
+my HAS HAS
+sister ROL ROL
+. NIL NIL
+
+How QUE QUE
+long DEG DEG
+is NOW NOW
+this PRX PRX
+blade CON CON
+? QUE QUE
+
+He PRO PRO
+lies ENS ENS
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+Japanese GPO GPO
+. NIL NIL
+
+It PRO PRO
+works ENS ENS
+. NIL NIL
+
+She PRO PRO
+was PST PST
+swimming EXG EXG
+. NIL NIL
+
+None NOT NOT
+of REL REL
+the DEF DEF
+children CON CON
+are NOW NOW
+sitting EXG EXG
+. NIL NIL
+
+I PRO PRO
+sharpened EPS EPS
+a DIS DIS
+pencil CON CON
+with REL REL
+a DIS DIS
+knife CON CON
+. NIL NIL
+
+Tom PER PER
+talked EPS EPS
+. NIL NIL
+
+Loosen EXS EXS
+it PRO PRO
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+playing EXG EXG
+poker CON CON
+with REL REL
+his HAS HAS
+friends ROL ROL
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+a DIS DIS
+lot QUV QUV
+of REL REL
+breweries CON CON
+in REL REL
+Bavaria GPE GPE
+. NIL NIL
+
+Sam PER PER
+is ENS ENS
+a DIS DIS
+philosopher ROL ROL
+, NIL NIL
+is ENS NOW
+n't NOT NOT
+he PRO PRO
+? QUE QUE
+
+We PRO PRO
+'ll FUT FUT
+meet EXS EXS
+at REL REL
+the DEF DEF
+station CON CON
+at REL REL
+nine~o'clock CLO CLO
+. NIL NIL
+
+I PRO PRO
+love ENS ENS
+books CON CON
+. NIL NIL
+
+She PRO PRO
+is ENS ENS
+not NOT NOT
+a DIS DIS
+nurse ROL ROL
+, NIL NIL
+but BUT BUT
+a DIS DIS
+doctor ROL ROL
+. NIL NIL
+
+Ah ITJ EMP
+! EMP EMP
+
+Who QUE QUE
+'ll FUT FUT
+drive EXS EXS
+? QUE QUE
+
+Ann PER PER
+swam EPS EPS
+across REL REL
+the DEF DEF
+river CON CON
+. NIL NIL
+
+Tom PER PER
+looked EPS EPS
+like SUB SUB
+he PRO PRO
+was PST PST
+healthy IST IST
+. NIL NIL
+
+Tom PER PER
+and GRP GRP
+Mary PER PER
+both AND AND
+laughed EPS EPS
+. NIL NIL
+
+I PRO PRO
+love ENS ENS
+Hitomi PER PER
+. NIL NIL
+
+I PRO PRO
+was PST PST
+not NOT NOT
+lonely IST IST
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+careful IST IST
+. NIL NIL
+
+Abrams PER PER
+handed EPS EPS
+the DEF DEF
+cigarette CON CON
+to REL REL
+Browne PER PER
+. NIL NIL
+
+They PRO PRO
+are NOW NOW
+not NOT NOT
+at~all EMP EMP
+interested IST IST
+. NIL NIL
+
+Who QUE QUE
+escaped EPS EPS
+? QUE QUE
+
+Every AND AND
+author ROL CON
+suffers ENS ENS
+from REL REL
+writer's~block CON CON
+from~time~to~time IST IST
+. NIL NIL
+
+The DEF DEF
+secret CON CON
+leaked EPS EPS
+out REL REL
+. NIL NIL
+
+Tom PER PER
+tripped EPS EPS
+on REL REL
+something DIS DIS
+. NIL NIL
+
+I PRO PRO
+was PST PST
+dazzled EXS EXS
+. NIL NIL
+
+Tom PER PER
+raises ENS ENS
+Arabian CON GPO
+horses CON CON
+. NIL NIL
+
+The DEF DEF
+owners ROL ROL
+appointed EPS EPS
+him PRO PRO
+manager CON CON
+. NIL NIL
+
+It PRO PRO
+'s NOW NOW
+3:30 CLO CLO
+. NIL NIL
+
+We PRO PRO
+survived EPS EPS
+! EMP EMP
+
+I PRO PRO
+like ENS ENS
+this PRX PRX
+kind CON CON
+of REL REL
+apple CON CON
+. NIL NIL
+
+This PRX PRX
+sucks ENS ENS
+. NIL NIL
+
+This PRX PRX
+is ENS ENS
+a DIS DIS
+message CON CON
+for REL REL
+them PRO PRO
+. NIL NIL
+
+Tom PER PER
+stopped EPS EPS
+reading EXG EXG
+. NIL NIL
+
+The DEF DEF
+car CON CON
+bumped EPS EPS
+the DEF DEF
+tree CON CON
+. NIL NIL
+
+Sylvia PER PER
+lives ENS ENS
+in REL REL
+Alsace GPE GPE
+. NIL NIL
+
+The DEF DEF
+bus~driver ROL ROL
+was PST PST
+drunk IST IST
+. NIL NIL
+
+Are NOW NOW
+you PRO PRO
+sleeping EXG EXG
+with REL REL
+her PRO PRO
+? QUE QUE
+
+The DEF DEF
+suitcase CON CON
+was EPS EPS
+n't NOT NOT
+mine HAS HAS
+. NIL NIL
+
+The DEF DEF
+poet ROL ROL
+wrote EPS EPS
+many QUV QUV
+poems CON CON
+. NIL NIL
+
+Where QUE QUE
+did PST PST
+you PRO PRO
+put EPS EXS
+my HAS HAS
+umbrella CON CON
+? QUE QUE
+
+Hundreds QUV QUC
+of REL REL
+people CON CON
+were PST PST
+killed EXS EXS
+. NIL NIL
+
+The DEF DEF
+tiger~cub CON CON
+looked EPS EPS
+like REL REL
+a DIS DIS
+large DEG DEG
+kitten CON CON
+. NIL NIL
+
+Sam PER PER
+joined EPS EPS
+the DEF DEF
+army CON CON
+when REL REL
+he PRO PRO
+was PST PST
+eighteen QUC QUC
+. NIL NIL
+
+We PRO PRO
+consulted EPS EPS
+them PRO PRO
+about REL REL
+the DEF DEF
+problem CON CON
+. NIL NIL
+
+He PRO PRO
+'s NOW NOW
+never NOT NOT
+been EXT EXT
+to REL REL
+America GPE GPE
+. NIL NIL
+
+Did PST PST
+somebody DIS DIS
+hear EXS EXS
+something DIS DIS
+? QUE QUE
+
+No NOT NOT
+comment CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+crying EXG EXG
+, NIL NIL
+too ALT ALT
+. NIL NIL
+
+Tom PER PER
+printed EPS EPS
+out REL REL
+the DEF DEF
+page CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+fed IST IST
+up REL REL
+with REL REL
+this PRX PRX
+winter CON CON
+, NIL NIL
+I PRO PRO
+want ENS ENS
+spring CON CON
+right EQU EQU
+now NOW NOW
+! EMP EMP
+
+What EMP EMP
+a DIS DIS
+marvelous IST IST
+family CON CON
+! EMP EMP
+
+" NIL NIL
+Whose HAS HAS
+examples CON CON
+are ENS ENS
+these PRX PRX
+? QUE QUE
+" NIL NIL
+
+" NIL NIL
+They PRO PRO
+are ENS ENS
+Meryem PER PER
+'s HAS HAS
+. NIL NIL
+" NIL NIL
+
+She PRO PRO
+wrote EPS EPS
+down REL REL
+something DIS DIS
+in REL REL
+her HAS HAS
+notebook CON CON
+. NIL NIL
+
+I PRO PRO
+'m ENS ENS
+at REL REL
+the DEF DEF
+restaurant CON CON
+. NIL NIL
+
+Nice IST IST
+dress CON CON
+. NIL NIL
+
+Tom PER PER
+dug EPS EPS
+a DIS DIS
+hole CON CON
+in REL REL
+the DEF DEF
+backyard CON CON
+. NIL NIL
+
+The DEF DEF
+street CON CON
+is NOW NOW
+empty IST IST
+. NIL NIL
+
+We PRO PRO
+barred EPS EPS
+the DEF DEF
+door CON CON
+and COO COO
+locked EPS EPS
+it PRO PRO
+. NIL NIL
+
+I PRO PRO
+can POS POS
+come EXS EXS
+at REL REL
+three CLO CLO
+. NIL NIL
+
+A DIS DIS
+mere TOP IST
+529 QUC QUC
+spectators ROL ROL
+watched EPS EPS
+the DEF DEF
+game CON CON
+. NIL NIL
+
+My HAS HAS
+father ROL ROL
+is NOW NOW
+like IST IST
+a DIS DIS
+friend ROL ROL
+to REL REL
+me PRO PRO
+. NIL NIL
+
+My HAS HAS
+father ROL ROL
+fixed EPS EPS
+a DIS DIS
+broken IST IST
+chair CON CON
+. NIL NIL
+
+I PRO PRO
+leave EFS ENS
+tomorrow FUT FUT
+. NIL NIL
+
+I PRO PRO
+was PST PST
+meeting EXG EXG
+Bob PER PER
+at REL REL
+six CLO CLO
+. NIL NIL
+
+You PRO PRO
+'re NOW NOW
+wounded EXS EXS
+. NIL NIL
+
+She PRO PRO
+'s NOW NOW
+as EQU EQU
+pretty IST IST
+as REL REL
+her HAS HAS
+sister ROL ROL
+. NIL NIL
+
+He PRO PRO
+was PST PST
+also ALT ALT
+kind IST IST
+to REL REL
+animals CON CON
+. NIL NIL
+
+These PRX PRX
+are ENS ENS
+my HAS HAS
+sister ROL ROL
+'s HAS HAS
+magazines CON CON
+. NIL NIL
+
+Mr. ROL ROL
+Smith PER PER
+is ENS ENS
+an DIS DIS
+acquaintance ROL ROL
+of REL REL
+hers PRO PRO
+. NIL NIL
+
+Wait EXS EXS
+! EMP EMP
+
+Is NOW NOW
+tapwater CON IST
+drinkable IST IST
+in REL REL
+Australia GPE GPE
+? QUE QUE
+
+We PRO PRO
+remember ENS ENS
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+tired IST IST
+of REL REL
+backgammon CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+liked EXS EXS
+by REL REL
+everyone AND AND
+. NIL NIL
+
+I PRO PRO
+ran EPS EPS
+out REL REL
+of REL REL
+money CON CON
+. NIL NIL
+
+Who QUE QUE
+'s ENS ENS
+your HAS HAS
+favorite TOP TOP
+painter ROL ROL
+? QUE QUE
+
+Did PST PST
+he PRO PRO
+notice EXS EXS
+something DIS DIS
+suspicious IST IST
+? QUE QUE
+
+I PRO PRO
+have NEC ENS
+to NIL NIL
+button EXS EXS
+my HAS HAS
+jacket CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+awesome IST IST
+. NIL NIL
+
+A DIS DIS
+lot QUV QUV
+of REL REL
+students ROL ROL
+around REL REL
+the DEF DEF
+world CON CON
+are NOW NOW
+studying EXG EXG
+English CON CON
+. NIL NIL
+
+The DEF DEF
+voyage CON CON
+lasted EPS EPS
+14 QUC QUC
+months UOM UOM
+. NIL NIL
+
+I PRO PRO
+made EPS EPS
+this PRX PRX
+chair CON CON
+. NIL NIL
+
+I PRO PRO
+'ve NOW NOW
+suddenly IST IST
+started EXT EXT
+to NIL NIL
+gain EXS EXS
+weight CON CON
+. NIL NIL
+
+Many QUV QUV
+people CON CON
+were PST PST
+arrested EXS EXS
+. NIL NIL
+
+Mary PER PER
+took EPS EPS
+the DEF DEF
+" NIL NIL
+morning~after~pill CON CON
+. NIL NIL
+
+How QUE QUE
+much QUV QUV
+is ENS ENS
+this PRX PRX
+camera CON CON
+? QUE QUE
+
+Can POS POS
+you PRO PRO
+give EXS EXS
+me PRO PRO
+a DIS DIS
+kilo UOM UOM
+of AND REL
+plums CON CON
+? QUE QUE
+
+Seicho~Matumoto PER PER
+died EPS EPS
+in REL REL
+1992 YOC YOC
+. NIL NIL
+
+Something DIS DIS
+fishy IST IST
+is NOW NOW
+going EXG EXG
+on REL REL
+. NIL NIL
+
+They PRO PRO
+will FUT FUT
+be NIL NIL
+jealous IST IST
+. NIL NIL
+
+I PRO PRO
+received EPS EPS
+a DIS DIS
+telegram CON CON
+from REL REL
+her PRO PRO
+. NIL NIL
+
+I PRO PRO
+do NOW NOW
+n't NOT NOT
+know EXS EXS
+how QUE QUE
+they PRO PRO
+did EPS EPS
+it PRO PRO
+. NIL NIL
+
+Tom PER PER
+'s HAS HAS
+cellphone CON CON
+rang EPS EPS
+and COO COO
+he PRO PRO
+answered EPS EPS
+it PRO PRO
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+not NOT NOT
+scared IST IST
+of REL REL
+you PRO PRO
+anymore ALT ALT
+. NIL NIL
+
+They PRO PRO
+stopped EPS EPS
+. NIL NIL
+
+His HAS HAS
+debts CON CON
+amount ENS ENS
+to REL REL
+$ UOM UOM
+2,000 QUC QUC
+. NIL NIL
+
+Three QUC QUC
+suspects ROL ROL
+have NOW NOW
+been PFT PFT
+arrested EXS EXS
+. NIL NIL
+
+Some DIS DIS
+bugs CON CON
+were PST PST
+fixed EXS EXS
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+flying EXG EXG
+birds CON CON
+in REL REL
+the DEF DEF
+sky CON CON
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+baffled IST IST
+. NIL NIL
+
+That DST DST
+'s NOW NOW
+obscene IST IST
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+smashed IST EXS
+. NIL NIL
+
+I PRO PRO
+'m ENS ENS
+not NOT NOT
+your HAS HAS
+little~sister ROL ROL
+. NIL NIL
+
+Call EXS EXS
+him PRO PRO
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+still ALT ALT
+a DIS DIS
+little QUV QUV
+hungry IST IST
+. NIL NIL
+
+This PRX PRX
+is ENS ENS
+a DIS DIS
+kind CON CON
+of REL REL
+watermelon CON CON
+. NIL NIL
+
+The DEF DEF
+ball CON CON
+hit EPS EPS
+the DEF DEF
+crossbar CON CON
+. NIL NIL
+
+Ricardo LIT LIT
+is ENS ENS
+my HAS HAS
+first~name CON CON
+. NIL NIL
+
+Let FUT FUT
+'s PRO PRO
+climb EXS EXS
+to REL REL
+the DEF DEF
+top CON CON
+of REL REL
+this PRX PRX
+mountain CON CON
+. NIL NIL
+
+My HAS HAS
+parents ROL ROL
+love ENS ENS
+me PRO PRO
+. NIL NIL
+
+The DEF DEF
+sun CON CON
+is NOW NOW
+shining EXG EXG
+in REL REL
+my HAS HAS
+face CON CON
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+peeling EXG EXG
+the DEF DEF
+celery CON CON
+and GRP GRP
+the DEF DEF
+potatoes CON CON
+. NIL NIL
+
+You PRO PRO
+must NEC NEC
+be NIL NIL
+very INT INT
+proud IST IST
+. NIL NIL
+
+When REL REL
+I PRO PRO
+was EPS EPS
+a DIS DIS
+boy CON CON
+, NIL NIL
+I PRO PRO
+was PST PST
+addicted IST IST
+to REL REL
+reading EXG EXG
+detective~stories CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+stirring EXG EXG
+his HAS HAS
+coffee CON CON
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+very INT INT
+young IST DEG
+. NIL NIL
+
+A DIS DIS
+man CON CON
+is NOW NOW
+filling EXG EXG
+a DIS DIS
+container CON CON
+made EXS EXS
+of REL REL
+plastic CON CON
+
+A DIS DIS
+man CON CON
+is NOW NOW
+shooting EXG EXG
+with REL REL
+a DIS DIS
+bow CON CON
+
+She PRO PRO
+'s NOW NOW
+cleverer MOR MOR
+than REL REL
+him PRO PRO
+. NIL NIL
+
+Something DIS DIS
+is NOW NOW
+happening EXG EXG
+in REL REL
+Boston GPE GPE
+. NIL NIL
+
+He PRO PRO
+asked EPS EPS
+me PRO PRO
+whether DIS DIS
+I PRO PRO
+like ENS ENS
+math CON CON
+. NIL NIL
+
+Kate PER PER
+is NOW NOW
+not NOT NOT
+as EQU EQU
+tall IST IST
+as REL REL
+Anne PER PER
+. NIL NIL
+
+Everyone AND AND
+in REL REL
+the DEF DEF
+class CON CON
+climbed EPS EPS
+the DEF DEF
+hill CON CON
+. NIL NIL
+
+The DEF DEF
+assassination CON CON
+of REL REL
+Yitzhak~Rabin PER PER
+took EPS EPS
+place NIL NIL
+on REL REL
+November MOY MOY
+4 DOM DOM
+, NIL NIL
+1995 YOC YOC
+at REL REL
+21:30 CLO CLO
+, NIL NIL
+at REL REL
+the DEF DEF
+end CON CON
+of REL REL
+a DIS DIS
+rally CON CON
+in REL REL
+support CON CON
+of REL REL
+the DEF DEF
+Oslo GPE GPE
+agreements CON CON
+at REL REL
+the DEF DEF
+Kings~of~Israel~Square GEO GPE
+in REL REL
+Tel~Aviv GPE GPE
+. NIL NIL
+
+The DEF DEF
+assassination CON CON
+of REL REL
+Rabin PER PER
+took EPS EPS
+place REL NIL
+in REL REL
+1995 YOC YOC
+. NIL NIL
+
+Texas~Instruments ORG ORG
+produces ENS ENS
+mobile~phones CON CON
+. NIL NIL
+
+Look EXS EXS
+out REL REL
+! EMP EMP
+
+The DEF DEF
+girl CON CON
+was PST PST
+afraid IST IST
+of REL REL
+her HAS HAS
+own EMP HAS
+shadow CON CON
+. NIL NIL
+
+All AND AND
+the DEF DEF
+students ROL ROL
+study ENS ENS
+English CON CON
+. NIL NIL
+
+Mr ROL ROL
+Smith PER PER
+teaches ENS ENS
+me PRO PRO
+English CON CON
+. NIL NIL
+
+Mr ROL ROL
+Joel PER PER
+is NOW NOW
+now NOW NOW
+on IST IST
+duty CON CON
+. NIL NIL
+
+I PRO PRO
+like ENS ENS
+languages CON CON
+. NIL NIL
+
+Our HAS HAS
+school CON CON
+is NOW NOW
+80 QUC QUC
+years UOM UOM
+old DEG DEG
+. NIL NIL
+
+He PRO PRO
+is ENS ENS
+a DIS DIS
+scientist ROL ROL
+. NIL NIL
+
+He PRO PRO
+has NOW NOW
+written EXT EXT
+a DIS DIS
+number QUV QUV
+of REL REL
+exciting IST IST
+detective~stories CON CON
+. NIL NIL
+
+I PRO PRO
+'ll FUT FUT
+attend EXS EXS
+. NIL NIL
+
+Summer CON CON
+has NOW NOW
+ended EXT EXT
+. NIL NIL
+
+My HAS HAS
+computer CON CON
+has NOW NOW
+frozen EXT EXT
+. NIL NIL
+
+This PRX PRX
+flag CON CON
+is NOW NOW
+very INT INT
+pretty IST IST
+. NIL NIL
+
+The DEF DEF
+building CON CON
+is NOW NOW
+one~hundred QUC QUC
+meters UOM UOM
+high IST DEG
+. NIL NIL
+
+The DEF DEF
+wounded ROL ROL
+were PST PST
+transported EXS EXS
+with REL REL
+an DIS DIS
+ambulance CON CON
+. NIL NIL
+
+Mary PER PER
+massaged EPS EPS
+my HAS HAS
+shoulders CON CON
+. NIL NIL
+
+I PRO PRO
+have ENS ENS
+a DIS DIS
+truck CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+taller MOR MOR
+than REL REL
+me PRO PRO
+. NIL NIL
+
+The DEF DEF
+weather CON CON
+
+A DIS DIS
+room CON CON
+. NIL NIL
+
+In REL REL
+what QUE QUE
+part CON CON
+of REL REL
+Russia GPE GPE
+did PST PST
+an DIS DIS
+oilpipe CON CON
+burst EXS EXS
+? QUE QUE
+
+There NIL NIL
+is ENS ENS
+a DIS DIS
+crumb CON CON
+in REL REL
+his HAS HAS
+beard CON CON
+. NIL NIL
+
+He PRO PRO
+asked EPS EPS
+her PRO PRO
+if DIS DIS
+she PRO PRO
+was EPS EPS
+Jane PER PER
+. NIL NIL
+
+The DEF DEF
+ATM CON CON
+swallowed EPS EPS
+my HAS HAS
+card CON CON
+. NIL NIL
+
+He PRO PRO
+was PST PST
+sent EXS EXS
+by REL REL
+his HAS HAS
+company CON CON
+to REL REL
+Kazakhstan GPE GPE
+. NIL NIL
+
+I PRO PRO
+'ve NOW NOW
+never NOT NOT
+been PFT PFT
+skiing EXG EXG
+. NIL NIL
+
+Tom PER PER
+has NOW NOW
+been PFT PFT
+stabbed EXS EXS
+several QUV QUV
+times CON CON
+. NIL NIL
+
+He PRO PRO
+inherited EPS EPS
+an DIS DIS
+old DEG DEG
+wooden IST IST
+chest CON CON
+. NIL NIL
+
+Tom PER PER
+retired EPS EPS
+many QUV QUV
+years UOM UOM
+ago PST PST
+. NIL NIL
+
+That DST DST
+'s NOW NOW
+cheap IST IST
+, DIS NIL
+is NOW NOW
+n't NOT NOT
+it PRO PRO
+? QUE QUE
+
+It PRO PRO
+'s NOW NOW
+outdated IST IST
+. NIL NIL
+
+A DIS DIS
+hare CON CON
+raced EPS EPS
+with REL REL
+a DIS DIS
+tortoise CON CON
+. NIL NIL
+
+It NIL NIL
+took EPS EPS
+me PRO PRO
+several QUV QUV
+hours UOM UOM
+to NIL NIL
+draw EXS EXS
+it PRO PRO
+. NIL NIL
+
+Is NOW NOW
+hexane CON CON
+toxic IST IST
+? QUE QUE
+
+Let FUT FUT
+'s PRO PRO
+go EXS EXS
+to REL REL
+the DEF DEF
+theater CON CON
+together GRP NIL
+. NIL NIL
+
+The DEF DEF
+submarines CON CON
+sank EPS EPS
+a DIS DIS
+lot QUV QUV
+of REL REL
+ships CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+addicted IST IST
+to REL REL
+heroin CON CON
+. NIL NIL
+
+He PRO PRO
+dreams ENS ENS
+that SUB SUB
+every AND AND
+body CON CON
+in REL REL
+China GPE GPE
+speaks ENS ENS
+Esperanto CON CON
+. NIL NIL
+
+I PRO PRO
+regret ENS ENS
+that DST DST
+decision CON CON
+. NIL NIL
+
+I PRO PRO
+'ve NOW NOW
+seen EXT EXT
+a DIS DIS
+flying~saucer CON CON
+. NIL NIL
+
+Tom PER PER
+drove EPS EPS
+his HAS HAS
+car CON CON
+off REL REL
+a DIS DIS
+cliff CON CON
+. NIL NIL
+
+Tom PER PER
+threw EPS EPS
+a DIS DIS
+snowball CON CON
+at REL REL
+Mary PER PER
+. NIL NIL
+
+Lalita PER PER
+called EPS EPS
+. NIL NIL
+
+Whose HAS HAS
+are ENS ENS
+these PRX PRX
+pens CON CON
+? QUE QUE
+
+Every AND AND
+one CON CON
+except NOT NOT
+Tom PER PER
+was PST PST
+wearing EXG EXG
+a DIS DIS
+tie CON CON
+. NIL NIL
+
+Somebody DIS DIS
+called EPS EPS
+. NIL NIL
+
+Tom PER PER
+sold EPS EPS
+his HAS HAS
+house CON CON
+. NIL NIL
+
+Tom PER PER
+hanged EPS EPS
+himself REF REF
+in REL REL
+jail CON CON
+. NIL NIL
+
+Tom PER PER
+has NOW NOW
+taught EXT EXT
+French CON CON
+for REL REL
+thirty QUC QUC
+years UOM UOM
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+waiting EXG EXG
+for REL REL
+her PRO PRO
+to NIL NIL
+climb EXS EXS
+into REL REL
+her HAS HAS
+car CON CON
+. NIL NIL
+
+How QUE QUE
+much QUV QUV
+does NOW NOW
+your HAS HAS
+daughter ROL ROL
+weigh EXS EXS
+? QUE QUE
+
+Chad GPE GPE
+is NOW NOW
+called EXS EXS
+" NIL NIL
+Tchad LIT LIT
+" NIL NIL
+in REL REL
+French CON CON
+. NIL NIL
+
+Tom PER PER
+filled EPS EPS
+out REL REL
+the DEF DEF
+application~form CON CON
+. NIL NIL
+
+Tom PER PER
+was PST PST
+trampled EXS EXS
+by REL REL
+a DIS DIS
+wild IST IST
+hippopotamus CON CON
+. NIL NIL
+
+Breakfast CON CON
+is NOW NOW
+served EXS EXS
+at REL REL
+seven~a.m. CLO CLO
+
+Over MOR MOR
+three~thousand QUC QUC
+people CON CON
+attended EPS EPS
+the DEF DEF
+concert CON CON
+. NIL NIL
+
+The DEF DEF
+two QUC QUC
+policemen ROL ROL
+were PST PST
+exhausted IST IST
+, NIL NIL
+too ALT ALT
+. NIL NIL
+
+She PRO PRO
+tried EPS EPS
+. NIL NIL
+
+His HAS HAS
+house CON CON
+is ENS ENS
+near APX APX
+the DEF DEF
+subway~station CON CON
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+dumbfounded IST IST
+. NIL NIL
+
+Tom PER PER
+cleaned EPS EPS
+the DEF DEF
+toilet CON CON
+. NIL NIL
+
+Tom PER PER
+contradicted EPS EPS
+himself REF REF
+. NIL NIL
+
+Her HAS HAS
+bicycle CON CON
+is NOW NOW
+blue COL COL
+. NIL NIL
+
+I PRO PRO
+have NOW NOW
+read EXT EXT
+that DST DST
+book CON CON
+several QUV QUV
+times CON CON
+. NIL NIL
+
+She PRO PRO
+was PST PST
+livid IST IST
+. NIL NIL
+
+An DIS DIS
+older IST MOR
+man CON CON
+was PST PST
+sitting EXG EXG
+on REL REL
+the DEF DEF
+bench CON CON
+. NIL NIL
+
+This PRX PRX
+novel CON CON
+was PST PST
+written EXS EXS
+by REL REL
+Emile~Zola PER PER
+. NIL NIL
+
+Nobody NOT NOT
+called EPS EPS
+. NIL NIL
+
+Tom PER PER
+cheated EPS EPS
+. NIL NIL
+
+He PRO PRO
+bowed EPS EPS
+to REL REL
+the DEF DEF
+Queen ROL ROL
+. NIL NIL
+
+Tom PER PER
+works ENS ENS
+. NIL NIL
+
+The DEF DEF
+police CON CON
+arrested EPS EPS
+the DEF DEF
+suspect ROL ROL
+yesterday PST PST
+. NIL NIL
+
+The DEF DEF
+hailstones CON CON
+were PST PST
+as EQU EQU
+big IST IST
+as REL REL
+tennis~balls CON CON
+. NIL NIL
+
+Forgive EXS EXS
+me PRO PRO
+! EMP EMP
+
+There NIL NIL
+are ENS ENS
+many QUV QUV
+fish CON CON
+in REL REL
+this PRX PRX
+lake CON CON
+. NIL NIL
+
+She PRO PRO
+pulled EPS EPS
+down REL REL
+the DEF DEF
+blinds CON CON
+. NIL NIL
+
+The DEF DEF
+Canadian GPO GPO
+chopped EPS EPS
+down REL REL
+the DEF DEF
+tree CON CON
+with REL REL
+an DIS DIS
+ax CON CON
+. NIL NIL
+
+Maybe POS POS
+Tom PER PER
+was PST PST
+hiding EXG EXG
+something DIS DIS
+. NIL NIL
+
+She PRO PRO
+hugged EPS EPS
+him PRO PRO
+. NIL NIL
+
+There NIL NIL
+'s ENS ENS
+a DIS DIS
+hidden IST IST
+door CON CON
+in REL REL
+the DEF DEF
+library CON CON
+. NIL NIL
+
+I PRO PRO
+have NOW NOW
+n't NOT NOT
+touched EXT EXT
+anything DIS DIS
+. NIL NIL
+
+Tom PER PER
+works ENS ENS
+at REL REL
+a DIS DIS
+supermarket CON CON
+. NIL NIL
+
+Tom PER PER
+composed EPS EPS
+a DIS DIS
+sonnet CON CON
+. NIL NIL
+
+My HAS HAS
+surname CON CON
+is ENS ENS
+Ling LIT LIT
+. NIL NIL
+
+You PRO PRO
+stole EPS EPS
+the DEF DEF
+money CON CON
+, NIL NIL
+did PST PST
+n't NOT NOT
+you PRO PRO
+? QUE QUE
+
+Which QUE QUE
+browser CON CON
+are NOW NOW
+you PRO PRO
+using EXG EXG
+? QUE QUE
+
+The DEF DEF
+rope CON CON
+broke EPS EPS
+under REL REL
+the DEF DEF
+strain CON CON
+. NIL NIL
+
+How EMP EMP
+blue COL COL
+the DEF DEF
+sky CON CON
+is NOW NOW
+! EMP EMP
+
+Tom PER PER
+knocked EPS EPS
+on REL REL
+the DEF DEF
+door CON CON
+. NIL NIL
+
+She PRO PRO
+rinsed EPS EPS
+the DEF DEF
+dishes CON CON
+. NIL NIL
+
+Susan PER PER
+and GRP GRP
+Bob PER PER
+have NOW NOW
+flown EXT EXT
+from REL REL
+London GPE GPE
+to REL REL
+Sydney GPE GPE
+, REL REL
+Australia GPE GPE
+. NIL NIL
+
+I PRO PRO
+caught EPS EPS
+a DIS DIS
+fish CON CON
+! EMP EMP
+
+Tom PER PER
+started EPS EPS
+to NIL NIL
+walk EXS EXS
+away REL REL
+, NIL NIL
+but BUT BUT
+Mary PER PER
+stopped EPS EPS
+him PRO PRO
+. NIL NIL
+
+He PRO PRO
+has NOW NOW
+been EXT EXT
+to REL REL
+France GPE GPE
+three QUC QUC
+times CON CON
+. NIL NIL
+
+Tom PER PER
+intervened EPS EPS
+. NIL NIL
+
+He PRO PRO
+substituted EPS EPS
+for REL REL
+his HAS HAS
+father ROL ROL
+. NIL NIL
+
+Bilbao GPE GPE
+is ENS ENS
+a DIS DIS
+city CON CON
+in REL REL
+the DEF DEF
+Basque~Country GPE GPE
+
+All AND AND
+the DEF DEF
+boys CON CON
+were PST PST
+yelling EXG EXG
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+proud IST IST
+of REL REL
+you PRO PRO
+. NIL NIL
+
+The DEF DEF
+fisherman ROL ROL
+'s HAS HAS
+story CON CON
+is NOW NOW
+fishy IST IST
+. NIL NIL
+
+That DST DST
+news CON CON
+got EPS EPS
+around REL REL
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+stronger MOR MOR
+than REL REL
+me PRO PRO
+. NIL NIL
+
+We PRO PRO
+'ll FUT FUT
+wait EXS EXS
+for REL REL
+Tom PER PER
+in REL REL
+the DEF DEF
+lobby CON CON
+. NIL NIL
+
+He PRO PRO
+'s NOW NOW
+sitting EXG EXG
+in REL REL
+the DEF DEF
+waiting~room CON CON
+. NIL NIL
+
+Keeping EXG EXG
+a DIS DIS
+car CON CON
+is ENS ENS
+a DIS DIS
+considerable IST IST
+expense CON CON
+. NIL NIL
+
+This PRX PRX
+is NOW NOW
+not NOT NOT
+funny IST IST
+! EMP EMP
+
+Tom PER PER
+'s HAS HAS
+hair CON CON
+is NOW NOW
+chestnut~brown COL COL
+. NIL NIL
+
+We PRO PRO
+looked EPS EPS
+down REL REL
+on REL REL
+him PRO PRO
+as REL REL
+a DIS DIS
+coward ROL ROL
+. NIL NIL
+
+It PRO PRO
+'s NOW NOW
+true IST IST
+. NIL NIL
+
+The DEF DEF
+vote CON CON
+took EPS EPS
+place NIL NIL
+on REL REL
+May MOY MOY
+sixteenth DOM DOM
+. NIL NIL
+
+He PRO PRO
+dropped EPS EPS
+the DEF DEF
+cup CON CON
+and COO COO
+broke EPS EPS
+it PRO PRO
+. NIL NIL
+
+That DST DST
+gold CON CON
+ring CON CON
+belonged EPS EPS
+to REL REL
+my HAS HAS
+mother ROL ROL
+. NIL NIL
+
+Tom PER PER
+and GRP GRP
+Mary PER PER
+went PST PST
+hunting EXG EXG
+for REL REL
+Easter~eggs CON CON
+. NIL NIL
+
+This PRX PRX
+tree CON CON
+is NOW NOW
+tall DEG DEG
+. NIL NIL
+
+Everybody AND AND
+wants ENS ENS
+something DIS DIS
+. NIL NIL
+
+Tom PER PER
+extinguished EPS EPS
+the DEF DEF
+fire CON CON
+. NIL NIL
+
+It NIL NIL
+took EPS EPS
+me PRO PRO
+five QUC QUC
+hours UOM UOM
+to NIL NIL
+make EXS EXS
+this PRX PRX
+kennel CON CON
+. NIL NIL
+
+The DEF DEF
+room CON CON
+is NOW NOW
+extremely INT INT
+small IST DEG
+. NIL NIL
+
+The DEF DEF
+river CON CON
+is NOW NOW
+also ALT ALT
+polluted IST IST
+. NIL NIL
+
+Tom PER PER
+and GRP GRP
+Mary PER PER
+picked EPS EPS
+up REL REL
+a DIS DIS
+hitchhiker ROL CON
+. NIL NIL
+
+Tom PER PER
+suffered EPS EPS
+from REL REL
+a DIS DIS
+collapsed EXT IST
+lung CON CON
+. NIL NIL
+
+That DST DST
+'s NOW NOW
+ironic IST IST
+. NIL NIL
+
+Tom PER PER
+lowered EPS EPS
+his HAS HAS
+gaze CON CON
+. NIL NIL
+
+She PRO PRO
+'s NOW NOW
+a DIS DIS
+bit QUV QUV
+older MOR MOR
+than REL REL
+me PRO PRO
+. NIL NIL
+
+I PRO PRO
+thought EPS EPS
+Tom PER PER
+had PST PST
+stopped EXT EXT
+dating EXG EXG
+Mary PER PER
+. NIL NIL
+
+How QUE QUE
+'s NOW ENS
+Lanzarote GPE GPE
+? QUE QUE
+
+I PRO PRO
+love ENS ENS
+pizza CON CON
+. NIL NIL
+
+Are NOW NOW
+you PRO PRO
+still ALT ALT
+in~love IST IST
+with REL REL
+Tom PER PER
+? QUE QUE
+
+There NIL NIL
+are ENS ENS
+many QUV QUV
+earthquakes CON CON
+in REL REL
+Japan GPE GPE
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+very INT INT
+sociable IST IST
+. NIL NIL
+
+The DEF DEF
+ice CON CON
+is NOW NOW
+two QUC QUC
+inches UOM UOM
+thick DEG DEG
+. NIL NIL
+
+I PRO PRO
+have NEC NEC
+to NIL NIL
+turn EXS EXS
+in REL REL
+my HAS HAS
+report CON CON
+today NOW NOW
+. NIL NIL
+
+Tom PER PER
+got EPS EPS
+an DIS DIS
+A SCO SCO
+. NIL NIL
+
+He PRO PRO
+had PST PST
+his HAS HAS
+wallet CON CON
+stolen EXS EXS
+. NIL NIL
+
+Tom PER PER
+is ENS ENS
+Mary PER PER
+'s HAS HAS
+ex ROL PST
+. NIL NIL
+
+Who QUE QUE
+did PST PST
+you PRO PRO
+get EXS EXS
+these PRX PRX
+flowers CON CON
+from REL REL
+? QUE QUE
+
+It NIL NIL
+will FUT FUT
+take EXS EXS
+me PRO PRO
+20 QUC QUC
+minutes UOM UOM
+to NIL NIL
+get EXS EXS
+to REL REL
+the DEF DEF
+station CON CON
+by REL REL
+taxi CON CON
+. NIL NIL
+
+My HAS HAS
+father ROL ROL
+died EPS EPS
+five QUC QUC
+years UOM UOM
+ago PST PST
+. NIL NIL
+
+Tom PER PER
+'s NOW NOW
+illiterate IST IST
+. NIL NIL
+
+She PRO PRO
+lighted EPS EPS
+a DIS DIS
+cigarette CON CON
+. NIL NIL
+
+I PRO PRO
+'ve NOW NOW
+been EXT EXT
+to REL REL
+Australia GPE GPE
+three QUC QUC
+times CON CON
+. NIL NIL
+
+The DEF DEF
+wound CON CON
+discharged EPS EPS
+pus CON ENS
+. NIL NIL
+
+Her HAS HAS
+aunt ROL ROL
+'s HAS HAS
+glasses CON CON
+are NOW NOW
+fashionable IST IST
+. NIL NIL
+
+I PRO PRO
+do ENS ENS
+some DIS DIS
+work CON CON
+for REL REL
+Tom PER PER
+from~time~to~time IST IST
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+majoring EXG EXG
+in REL REL
+architecture CON CON
+. NIL NIL
+
+A DIS DIS
+child CON CON
+is NOW NOW
+wearing EXG EXG
+a DIS DIS
+yellow COL COL
+jacket CON CON
+and AND COO
+is NOW NOW
+jumping EXG EXG
+on REL REL
+a DIS DIS
+rock CON CON
+
+A DIS DIS
+person CON CON
+is NOW NOW
+buttering EXG EXG
+a DIS DIS
+tray CON CON
+
+Someone DIS DIS
+is NOW NOW
+feeding EXG EXG
+an DIS DIS
+animal CON CON
+
+This PRX PRX
+whisky CON CON
+is NOW NOW
+very INT INT
+strong IST DEG
+. NIL NIL
+
+Juan PER PER
+died EPS EPS
+from REL REL
+tuberculosis CON CON
+. NIL NIL
+
+We PRO PRO
+could POS POS
+do EXS EXS
+something DIS DIS
+big IST DEG
+. NIL NIL
+
+Wilkins PER PER
+arrived EPS EPS
+in REL REL
+Italy GPE GPE
+in REL REL
+1987 YOC YOC
+. NIL NIL
+
+Dogs CON CON
+are NOW NOW
+used EXS EXS
+in REL REL
+law~enforcement CON CON
+. NIL NIL
+
+Harnold~Lamb PER PER
+authored EPS EPS
+many QUV QUV
+biographies CON CON
+. NIL NIL
+
+President ROL ROL
+Fujimori PER PER
+was PST PST
+re-elected EXS EXS
+in REL REL
+1995 YOC YOC
+. NIL NIL
+
+Alexander~the~Great PER PER
+'s HAS HAS
+Tomb CON CON
+remains ENS ENS
+undiscovered IST IST
+. NIL NIL
+
+Qin~Shi~Huang PER PER
+was EPS EPS
+the DEF DEF
+first ORD ORD
+Chinese GPO GPO
+Emperor ROL ROL
+. NIL NIL
+
+Pope ROL ROL
+John~Paul~II PER PER
+was PST PST
+born EXS EXS
+in REL REL
+Poland GPE GPE
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+not NOT NOT
+convinced IST IST
+at~all EMP EMP
+. NIL NIL
+
+It NIL NIL
+took EPS EPS
+me PRO PRO
+three QUC QUC
+days UOM UOM
+to NIL NIL
+clean EXS EXS
+the DEF DEF
+room CON CON
+. NIL NIL
+
+How QUE QUE
+long DEG DEG
+is NOW NOW
+that DST DST
+bridge CON CON
+? QUE QUE
+
+How QUE QUE
+deep DEG DEG
+is NOW NOW
+the DEF DEF
+lake CON CON
+? QUE QUE
+
+My HAS HAS
+watch CON CON
+is NOW NOW
+very INT INT
+accurate IST IST
+. NIL NIL
+
+I PRO PRO
+do NOW NOW
+n't NOT NOT
+work EXS EXS
+on REL REL
+Sunday DOW DOW
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+interested IST IST
+in REL REL
+swimming EXG CON
+. NIL NIL
+
+I PRO PRO
+have ENS ENS
+a DIS DIS
+few QUV QUV
+books CON CON
+. NIL NIL
+
+I PRO PRO
+wanted EPS EPS
+to NIL NIL
+surprise EXS EXS
+her PRO PRO
+. NIL NIL
+
+His HAS HAS
+steps CON CON
+were PST PST
+clearly IST INT
+marked EXS EXS
+in REL REL
+the DEF DEF
+snow CON CON
+. NIL NIL
+
+The DEF DEF
+poll CON CON
+was PST PST
+taken EXS EXS
+yesterday PST PST
+. NIL NIL
+
+He PRO PRO
+won EPS EPS
+the DEF DEF
+race CON CON
+again ALT ALT
+. NIL NIL
+
+He PRO PRO
+was PST PST
+elected EXS EXS
+president ROL CON
+. NIL NIL
+
+They PRO PRO
+sat EPS EPS
+in REL REL
+the DEF DEF
+shade CON CON
+of REL REL
+that DST DST
+big IST DEG
+tree CON CON
+. NIL NIL
+
+She PRO PRO
+shed EPS EPS
+bitter IST IST
+tears CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW ENS
+patient IST ROL
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+a DIS DIS
+little QUV QUV
+taller MOR MOR
+than REL REL
+you PRO PRO
+. NIL NIL
+
+He PRO PRO
+listened EPS EPS
+to REL REL
+music CON CON
+in REL REL
+his HAS HAS
+room CON CON
+. NIL NIL
+
+Whose HAS HAS
+letter CON CON
+is ENS ENS
+this PRX PRX
+? QUE QUE
+
+The DEF DEF
+view CON CON
+from REL REL
+the DEF DEF
+summit CON CON
+is NOW NOW
+very INT INT
+nice IST IST
+. NIL NIL
+
+My HAS HAS
+fault CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+very INT INT
+tired IST IST
+now NOW NOW
+. NIL NIL
+
+I PRO PRO
+have ENS ENS
+three QUC QUC
+chickens CON CON
+in REL REL
+my HAS HAS
+house CON CON
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+cats CON CON
+on REL REL
+Mars NTH GPE
+, NIL NIL
+too ALT ALT
+. NIL NIL
+
+It PRO PRO
+'s NOW NOW
+occupied IST IST
+. NIL NIL
+
+Who QUE QUE
+is ENS ENS
+the DEF DEF
+head ROL ROL
+of REL REL
+the DEF DEF
+FBI ORG ORG
+? QUE QUE
+
+What QUE QUE
+was EPS EPS
+Aaron~Copland PER PER
+'s HAS HAS
+most TOP TOP
+famous IST IST
+piece~of~music CON CON
+? QUE QUE
+
+What QUE QUE
+continent CON CON
+is ENS ENS
+the DEF DEF
+world CON CON
+'s HAS HAS
+largest TOP TOP
+desert CON CON
+on REL REL
+? QUE QUE
+
+Tom PER PER
+is NOW NOW
+angry IST IST
+with REL REL
+us PRO PRO
+. NIL NIL
+
+Somebody DIS DIS
+called EPS EPS
+the DEF DEF
+police CON CON
+. NIL NIL
+
+You PRO PRO
+said EPS ENS
+that SUB SUB
+Tom PER PER
+was PST PST
+n't NOT NOT
+hungry IST IST
+. NIL NIL
+
+Tom PER PER
+told EPS EPS
+Mary PER PER
+something DIS DIS
+he PRO PRO
+'d PST PST
+never NOT NOT
+told EXT EXT
+anyone DIS DIS
+. NIL NIL
+
+Mary PER PER
+enjoyed EPS EPS
+herself REF REF
+. NIL NIL
+
+Tom PER PER
+walked EPS EPS
+through REL REL
+the DEF DEF
+revolving~door CON CON
+into REL REL
+the DEF DEF
+hotel CON CON
+lobby CON CON
+. NIL NIL
+
+In~other~words ALT ALT
+, NIL NIL
+he PRO PRO
+'s NOW NOW
+lazy IST IST
+. NIL NIL
+
+Everybody AND AND
+lies ENS ENS
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+thirty QUC QUC
+names CON CON
+on REL REL
+the DEF DEF
+list CON CON
+. NIL NIL
+
+The DEF DEF
+president ROL ROL
+was EPS EPS
+a DIS DIS
+farmer ROL ROL
+when REL REL
+he PRO PRO
+was PST PST
+young DEG DEG
+. NIL NIL
+
+Ping~pong CON CON
+is NOW NOW
+also ALT ALT
+called EXS EXS
+table~tennis LIT CON
+. NIL NIL
+
+She PRO PRO
+did PST PST
+n't NOT NOT
+bat EXS EXS
+an DIS DIS
+eyelid CON CON
+. NIL NIL
+
+He PRO PRO
+handed EPS EPS
+the DEF DEF
+salesclerk ROL CON
+the DEF DEF
+money CON CON
+. NIL NIL
+
+Tusnelda PER PER
+was EPS EPS
+Arminio PER PER
+'s HAS HAS
+wife ROL ROL
+. NIL NIL
+
+My HAS HAS
+cousin ROL ROL
+is ENS ENS
+a DIS DIS
+junkie ROL ROL
+. NIL NIL
+
+She PRO PRO
+saw EPS EPS
+herself REF REF
+in REL REL
+the DEF DEF
+mirror CON CON
+. NIL NIL
+
+Thou PRO PRO
+speakest ENS EXS
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+relaxed IST IST
+. NIL NIL
+
+Be NIL EXS
+kind IST IST
+to REL REL
+old DEG DEG
+people CON CON
+. NIL NIL
+
+Tom PER PER
+caught EPS EPS
+the DEF DEF
+ball CON CON
+. NIL NIL
+
+Tom PER PER
+also ALT ALT
+bought EPS EPS
+a DIS DIS
+dozen QUC QUC
+eggs CON CON
+. NIL NIL
+
+Tom PER PER
+bit EPS EPS
+his HAS HAS
+lip CON CON
+. NIL NIL
+
+He PRO PRO
+left EPS EPS
+for REL REL
+London GPE GPE
+yesterday PST PST
+. NIL NIL
+
+I PRO PRO
+'ll FUT FUT
+be NIL EXS
+back IST IST
+at REL REL
+6:30 CLO CLO
+. NIL NIL
+
+He PRO PRO
+is NOW NOW
+kind IST IST
+to REL REL
+her PRO PRO
+. NIL NIL
+
+It PRO PRO
+did PST PST
+n't NOT NOT
+matter EXS EXS
+to REL REL
+us PRO PRO
+. NIL NIL
+
+This PRX PRX
+animal CON CON
+is NOW NOW
+bigger MOR MOR
+than REL REL
+that DST DST
+one CON CON
+. NIL NIL
+
+Is ENS ENS
+n't NOT NOT
+that DST PRO
+theirs HAS HAS
+? QUE QUE
+
+Romeo PER PER
+instantly IST IST
+fell EPS EPS
+in~love IST IST
+with REL REL
+Juliet PER PER
+. NIL NIL
+
+The DEF DEF
+party CON CON
+took EPS EPS
+place NIL NIL
+in REL REL
+a DIS DIS
+big DEG DEG
+room CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+taller MOR MOR
+than REL REL
+I PRO PRO
+. NIL NIL
+
+It PRO PRO
+will FUT FUT
+be EXS EXS
+a DIS DIS
+masterpiece CON CON
+! EMP EMP
+
+They PRO PRO
+fined EXS EPS
+him PRO PRO
+5,000 QUC QUC
+yen UOM UOM
+for UOM REL
+illegal IST IST
+parking EXG CON
+. NIL NIL
+
+This PRX PRX
+transaction CON CON
+was PST PST
+carried EXS EXS
+out REL REL
+in REL REL
+yen UOM UOM
+, NIL NIL
+rather NOT NOT
+than REL REL
+US~dollars UOM UOM
+. NIL NIL
+
+There NIL NIL
+'s ENS ENS
+a DIS DIS
+ton UOM UOM
+of AND REL
+dust CON CON
+on REL REL
+top CON CON
+of REL REL
+the DEF DEF
+fan~blades CON CON
+. NIL NIL
+
+It NIL NIL
+took EPS EPS
+us PRO PRO
+six QUC QUC
+years UOM UOM
+to NIL NIL
+conquer EXS EXS
+Constantinople GPE GPE
+. NIL NIL
+
+They PRO PRO
+drink ENS ENS
+a DIS DIS
+lot QUV QUV
+of REL REL
+lemonade CON CON
+. NIL NIL
+
+You PRO PRO
+lied EPS EPS
+to REL REL
+me PRO PRO
+again ALT ALT
+. NIL NIL
+
+Tom PER PER
+will FUT FUT
+be NIL NIL
+absent IST IST
+today NOW NOW
+because SUB SUB
+he PRO PRO
+has ENS ENS
+a DIS DIS
+cold CON CON
+. NIL NIL
+
+I PRO PRO
+already ALT ALT
+told EPS EPS
+you PRO PRO
+that DST PRO
+a REL DIS
+hundred QUC QUC
+times CON CON
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+whistling EXG EXG
+in REL REL
+my HAS HAS
+house CON CON
+. NIL NIL
+
+She PRO PRO
+is NOW NOW
+100 QUC QUC
+years UOM UOM
+old DEG DEG
+. NIL NIL
+
+I PRO PRO
+'ve NOW NOW
+got EXT EXT
+plenty QUV QUV
+of REL REL
+money CON CON
+. NIL NIL
+
+Tom PER PER
+freed EPS EPS
+the DEF DEF
+hostages ROL ROL
+. NIL NIL
+
+She PRO PRO
+tried EPS EPS
+to NIL NIL
+squeeze EXS EXS
+the DEF DEF
+juice CON CON
+from REL REL
+the DEF DEF
+orange CON CON
+. NIL NIL
+
+He PRO PRO
+whispered EPS EPS
+something DIS DIS
+in REL REL
+her HAS HAS
+ear CON CON
+. NIL NIL
+
+He PRO PRO
+'s NOW NOW
+not NOT NOT
+breaking EXG EXG
+the DEF DEF
+law CON CON
+. NIL NIL
+
+Tom PER PER
+bought EPS EPS
+three QUC QUC
+kilograms UOM UOM
+of AND REL
+apples CON CON
+. NIL NIL
+
+Ned PER PER
+comes ENS ENS
+from REL REL
+the DEF DEF
+state CON CON
+of REL REL
+Utah GPE GPE
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+still ALT ALT
+crying EXG EXG
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+calm IST IST
+now NOW NOW
+. NIL NIL
+
+Millions QUV QUC
+of REL REL
+people CON CON
+in REL REL
+the DEF DEF
+United~States GPE GPE
+are NOW NOW
+unemployed IST IST
+. NIL NIL
+
+Let FUT FUT
+'s PRO PRO
+sing EXS EXS
+a DIS DIS
+patriotic IST IST
+air CON CON
+. NIL NIL
+
+My HAS HAS
+mother ROL ROL
+bought EPS EPS
+two QUC QUC
+bottles CON CON
+of AND REL
+orange~juice CON CON
+. NIL NIL
+
+Tom PER PER
+was PST PST
+chewing EXG EXG
+on REL REL
+a DIS DIS
+toothpick CON CON
+. NIL NIL
+
+The DEF DEF
+committee CON CON
+consists ENS ENS
+of REL REL
+fifteen QUC QUC
+people CON CON
+. NIL NIL
+
+Everybody AND AND
+paid EPS EPS
+. NIL NIL
+
+Tom PER PER
+dropped EPS EPS
+Mary PER PER
+off REL REL
+at REL REL
+the DEF DEF
+station CON CON
+. NIL NIL
+
+Dogs CON CON
+bark ENS ENS
+. NIL NIL
+
+Tom PER PER
+began EPS EPS
+to NIL NIL
+snore EXS EXS
+. NIL NIL
+
+Tom PER PER
+arrived EPS EPS
+by REL REL
+car CON CON
+. NIL NIL
+
+Something DIS DIS
+'s NOW NOW
+not NOT NOT
+right IST IST
+. NIL NIL
+
+I PRO PRO
+am NOW NOW
+wiping EXG EXG
+my HAS HAS
+nose CON CON
+with REL REL
+a DIS DIS
+handkerchief CON CON
+. NIL NIL
+
+This PRX PRX
+book CON CON
+is NOW NOW
+so INT INT
+difficult IST IST
+that SUB SUB
+I PRO PRO
+ca POS POS
+n't NOT NOT
+read EXS EXS
+it PRO PRO
+. NIL NIL
+
+Tom PER PER
+is ENS ENS
+a DIS DIS
+buddy ROL ROL
+of REL REL
+mine PRO PRO
+. NIL NIL
+
+Tom PER PER
+was PST PST
+unimpressed IST IST
+. NIL NIL
+
+My HAS HAS
+parents ROL ROL
+are NOW NOW
+aged IST IST
+. NIL NIL
+
+Tom PER PER
+pushed EPS EPS
+Mary PER PER
+off REL REL
+the DEF DEF
+cliff CON CON
+. NIL NIL
+
+Jack PER PER
+is NOW NOW
+three QUC QUC
+years UOM UOM
+older MOR MOR
+than REL REL
+me PRO PRO
+. NIL NIL
+
+Tom PER PER
+wiggled EPS EPS
+his HAS HAS
+nose CON CON
+. NIL NIL
+
+I PRO PRO
+hate ENS ENS
+karaoke CON CON
+. NIL NIL
+
+They PRO PRO
+'re ENS ENS
+in REL REL
+aisle CON CON
+two ORD QUC
+. NIL NIL
+
+It PRO PRO
+'s NOW NOW
+popular IST IST
+with REL REL
+women CON CON
+. NIL NIL
+
+Her HAS HAS
+dress CON CON
+is ENS ENS
+above REL REL
+the DEF DEF
+knee CON CON
+. NIL NIL
+
+He PRO PRO
+loves ENS ENS
+her PRO PRO
+. NIL NIL
+
+She PRO PRO
+loves ENS ENS
+him PRO PRO
+, NIL NIL
+too ALT ALT
+. NIL NIL
+
+I PRO PRO
+'ll FUT FUT
+see EXS EXS
+you PRO PRO
+tomorrow FUT FUT
+at REL REL
+school CON CON
+. NIL NIL
+
+Tom PER PER
+grabbed EPS EPS
+his HAS HAS
+keys CON CON
+and COO COO
+put EPS EPS
+them PRO PRO
+into REL REL
+his HAS HAS
+pocket CON CON
+. NIL NIL
+
+A DIS DIS
+rash CON CON
+broke EPS EPS
+out REL REL
+on REL REL
+her HAS HAS
+neck CON CON
+. NIL NIL
+
+I PRO PRO
+'m NOW NOW
+glad IST IST
+you PRO PRO
+asked EPS EPS
+that DST PRO
+. NIL NIL
+
+The DEF DEF
+Giants ORG ORG
+beat EPS EPS
+the DEF DEF
+Lions ORG ORG
+yesterday PST PST
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+sitting EXG EXG
+on REL REL
+his HAS HAS
+bunk CON CON
+. NIL NIL
+
+He PRO PRO
+suffers ENS ENS
+from REL REL
+osteoporosis CON CON
+. NIL NIL
+
+She PRO PRO
+attends ENS ENS
+school CON CON
+at REL REL
+night CON CON
+. NIL NIL
+
+There NIL NIL
+are ENS ENS
+some DIS DIS
+books CON CON
+on REL REL
+the DEF DEF
+desk CON CON
+. NIL NIL
+
+Javier PER PER
+blushed EPS EPS
+. NIL NIL
+
+Laurie PER PER
+is NOW NOW
+twenty QUC QUC
+years UOM UOM
+old DEG DEG
+. NIL NIL
+
+Ken PER PER
+knows ENS ENS
+Tom PER PER
+. NIL NIL
+
+What EMP EMP
+a DIS DIS
+beautiful IST IST
+ring CON CON
+! EMP EMP
+
+I PRO PRO
+got PST PST
+expelled EXS EXS
+. NIL NIL
+
+She PRO PRO
+'s NOW NOW
+maxed EXT EXT
+out REL REL
+all AND AND
+her HAS HAS
+credit~cards CON CON
+. NIL NIL
+
+He PRO PRO
+demonstrated EPS EPS
+new IST IST
+vacuum~cleaners CON CON
+. NIL NIL
+
+Tom PER PER
+was PST PST
+jealous IST IST
+. NIL NIL
+
+He PRO PRO
+has ENS ENS
+eleven QUC QUC
+children CON CON
+. NIL NIL
+
+A DIS DIS
+swan CON CON
+is NOW NOW
+gliding EXG EXG
+toward REL REL
+the DEF DEF
+reeds CON CON
+. NIL NIL
+
+The DEF DEF
+Statue~of~Liberty ART GPE
+is NOW NOW
+located IST IST
+in REL REL
+New~York GPE GPE
+. NIL NIL
+
+I PRO PRO
+rubbed EPS EPS
+my HAS HAS
+feet CON CON
+. NIL NIL
+
+Tom PER PER
+had PST PST
+his HAS HAS
+hair CON CON
+cut EXS EXS
+. NIL NIL
+
+He PRO PRO
+was PST PST
+elected EXS EXS
+governor CON CON
+of REL REL
+Texas GPE GPE
+in REL REL
+1994 YOC YOC
+. NIL NIL
+
+Few QUV QUV
+scientists ROL ROL
+understand ENS ENS
+the DEF DEF
+theory~of~relativity CON CON
+. NIL NIL
+
+There NIL NIL
+'s ENS ENS
+a DIS DIS
+famous IST IST
+book CON CON
+in REL REL
+English CON CON
+whose HAS HAS
+entire IST IST
+last IST IST
+chapter CON CON
+is ENS ENS
+a DIS DIS
+single IST IST
+sentence CON CON
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+unafraid IST IST
+. NIL NIL
+
+Mary PER PER
+is NOW NOW
+21 QUC QUC
+years UOM UOM
+younger MOR MOR
+than REL REL
+Tom PER PER
+, NIL NIL
+but BUT BUT
+Tom PER PER
+is NOW NOW
+22 QUC QUC
+times UOM UOM
+richer MOR MOR
+than REL REL
+Mary PER PER
+. NIL NIL
+
+Tom PER PER
+was PST PST
+born EXS EXS
+on REL REL
+May MOY MOY
+5 DOM DOM
+, NIL NIL
+2010 YOC YOC
+. NIL NIL
+
+The DEF DEF
+express CON IST
+train CON CON
+from REL REL
+Paris GPE GPE
+arrives EFS ENS
+at REL REL
+ten~o'clock CLO CLO
+. NIL NIL
+
+I PRO PRO
+have NEC NEC
+to NIL NIL
+put EXS EXS
+a DIS DIS
+stamp CON CON
+on REL REL
+the DEF DEF
+envelope CON CON
+. NIL NIL
+
+She PRO PRO
+loves ENS ENS
+squirrels CON CON
+. NIL NIL
+
+She PRO PRO
+waved EPS EPS
+him PRO PRO
+goodbye CON CON
+. NIL NIL
+
+I PRO PRO
+ca POS POS
+n't NOT NOT
+call EXS EXS
+anyone DIS DIS
+right EQU EQU
+now NOW NOW
+. NIL NIL
+
+Mary PER PER
+was PST PST
+ashamed IST IST
+and COO COO
+apologised EPS EXS
+for REL REL
+her HAS HAS
+mistakes CON CON
+. NIL NIL
+
+Tennis CON CON
+is ENS ENS
+my HAS HAS
+preferred TOP TOP
+sport CON CON
+. NIL NIL
+
+My HAS HAS
+wife ROL ROL
+'s HAS HAS
+constant IST IST
+nagging EXG CON
+is NOW NOW
+getting EXG EXG
+me PRO PRO
+down REL REL
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+n't NOT NOT
+scared IST IST
+anymore ALT ALT
+. NIL NIL
+
+I PRO PRO
+love ENS ENS
+Alex~Marcelo PER PER
+. NIL NIL
+
+Tom PER PER
+is NOW NOW
+extremely INT INT
+romantic IST IST
+. NIL NIL
+
+Belgium GPE GPE
+is NOW NOW
+called EXS EXS
+" NIL NIL
+België LIT LIT
+" NIL NIL
+in REL REL
+Flemish CON CON
+. NIL NIL
+
+We PRO PRO
+spent EPS EPS
+the DEF DEF
+day CON CON
+in REL REL
+the DEF DEF
+open~air CON CON
+. NIL NIL
+
+I PRO PRO
+love ENS ENS
+honey CON CON
+. NIL NIL
+
+That DST DST
+will FUT FUT
+cost EXS EXS
+thirty QUC QUC
+euros UOM UOM
+. NIL NIL
+
+Do NOW NOW
+you PRO PRO
+eat EXS EXS
+bell~peppers CON CON
+? QUE QUE
+
+I PRO PRO
+was PST PST
+n't NOT NOT
+busy IST IST
+. NIL NIL
+
+I PRO PRO
+met EPS EPS
+him PRO PRO
+in REL REL
+Tokyo GPE GPE
+by REL REL
+chance CON CON
+. NIL NIL
+
+This PRX PRX
+farmer ROL ROL
+owns ENS ENS
+horses CON CON
+instead NOT NOT
+of REL REL
+a DIS DIS
+tractor CON CON
+. NIL NIL
+
+This PRX PRX
+material CON CON
+absorbs ENS ENS
+CO2 CON CON
+. NIL NIL
+
+He PRO PRO
+built EPS EPS
+a DIS DIS
+fence CON CON
+around REL REL
+his HAS HAS
+house CON CON
+. NIL NIL
+
+Ping-Pong CON CON
+is NOW ENS
+also ALT ALT
+called EXS EXS
+table~tennis LIT CON
+. NIL NIL
+
+There NIL NIL
+is ENS ENS
+milk CON CON
+in REL REL
+the DEF DEF
+fridge CON CON
+. NIL NIL
+
+We PRO PRO
+used PST PST
+to NIL NIL
+play EXS EXS
+in REL REL
+the DEF DEF
+park CON CON
+. NIL NIL
+
+I PRO PRO
+started EPS EPS
+sweating EXG EXG
+. NIL NIL
+
